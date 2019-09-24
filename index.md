@@ -15,7 +15,6 @@ Email:1022xinwang.liu@gmail.com
 
 ## Selected Publications:
 
-$\color{rgb(255,0,0)}{11111}$
 Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
 1.IEEE transactions on pattern analysis and machine intelligence(**TPAMI**),2019,**Xinwang Liu**, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin,   

@@ -6,7 +6,6 @@ Pattern Recognition & Machine Intelligence Lab, NUDT
   
 Email:1022xinwang.liu@gmail.com
 
-
 ## Brief Bio：
 
 ## Recent News:

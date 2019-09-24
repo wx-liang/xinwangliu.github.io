@@ -1,4 +1,3 @@
-# Xinwang Liu
 
 Computer Scientist
  
@@ -6,33 +5,14 @@ Pattern Recognition & Machine Intelligence Lab, NUDT
   
 Email:1022xinwang.liu@gmail.com
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Brief Bio：
 
-```markdown
-Syntax highlighted code block
+## Recent News:
 
-# Header 1
-## Header 2
-### Header 3
+## Organized Challenges:
 
-- Bulleted
-- List
+## Highlighted Projects:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Recent News
-
- 
-
-## Selected Publications
-
+## Selected Publications(
+1.Diversity and Consistency Learning Guided Spectral embedding for Multi-view Clustering

@@ -200,6 +200,6 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 ### 2011
 
-1.Yubin Zhan, Jianping Yin, **Xinwang Liu**: A Convergent Solution to Matrix Bidirectional Projection Based Feature Extraction with Application to Face Recognition. International Journal of Computational Intelligence Systems 4(5): 863-873 (2011) 
+1.Yubin Zhan, Jianping Yin, **Xinwang Liu**: A Convergent Solution to Matrix Bidirectional Projection Based Feature Extraction with Application to Face Recognition. International Journal of Computational Intelligence Systems 4(5): 863-873 (2011) [[PDF]](https://download.atlantis-press.com/article/2375.pdf)
 
-2.Lingqiao Liu, Lei Wang, **Xinwang Liu**: In defense of soft-assignment coding. IEEE International Conference on Computer Vision: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A)
+2.Lingqiao Liu, Lei Wang, **Xinwang Liu**: In defense of soft-assignment coding. IEEE International Conference on Computer Vision: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf)

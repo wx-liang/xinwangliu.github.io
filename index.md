@@ -156,15 +156,15 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 ### 2015
 
-1.**Xinwang Liu**, Lei Wang, Jianping Yin, Yong Dou, Jian Zhang: Absent Multiple Kernel Learning. Proceedings of the Twenty-Ninth AAAI Conference on Artiﬁcial Intelligence: (2807-2813), January 25-30, 2015, Austin, Texas, USA (CCF Rank A)
+1.**Xinwang Liu**, Lei Wang, Jianping Yin, Yong Dou, Jian Zhang: Absent Multiple Kernel Learning. Proceedings of the Twenty-Ninth AAAI Conference on Artiﬁcial Intelligence: (2807-2813), January 25-30, 2015, Austin, Texas, USA (CCF Rank A)[[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9298/9945)
 
-2.**Xinwang Liu**, Luping Zhou, Lei Wang, Jian Zhang, Jianping Yin and Dinggang Shen: An Efficient Radius-incorporated MKL Algorithm for Alzheimer’s Disease Prediction. Pattern Recognition 48(7): 2141-2150 (2015) (CCF Rank B) 
+2.**Xinwang Liu**, Luping Zhou, Lei Wang, Jian Zhang, Jianping Yin and Dinggang Shen: An Efficient Radius-incorporated MKL Algorithm for Alzheimer’s Disease Prediction. Pattern Recognition 48(7): 2141-2150 (2015) (CCF Rank B)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0031320314004956)
 
-3.**Xinwang Liu**, Lei Wang, Guang-Bin Huang, Jian Zhang, Jianping Yin: Multiple kernel extreme learning machine. Neurocomputing 149: 253-264 (2015) (CCF Rank C) 
+3.**Xinwang Liu**, Lei Wang, Guang-Bin Huang, Jian Zhang, Jianping Yin: Multiple kernel extreme learning machine. Neurocomputing 149: 253-264 (2015) (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231214011199)
 
-4.Lei Luo, Chunhua Shen, **Xinwang Liu**, Chunyuan Zhang: A Computational Model of the Short-Cut Rule for 2D Shape Decomposition. IEEE Transactions on Image Processing 24(1): 273-283 (2015) (CCF Rank A) 
+4.Lei Luo, Chunhua Shen, **Xinwang Liu**, Chunyuan Zhang: A Computational Model of the Short-Cut Rule for 2D Shape Decomposition. IEEE Transactions on Image Processing 24(1): 273-283 (2015) (CCF Rank A)[[PDF]](https://arxiv.org/pdf/1409.2104.pdf)
 
-5.Chengzhang Zhu, **Xinwang Liu**, Qiang Liu, Yuewei Ming, Jianping Yin: Distance Based Multiple Kernel ELM: A Fast Multiple Kernel Learning Approach. Mathematical Problems in Engineering  
+5.Chengzhang Zhu, **Xinwang Liu**, Qiang Liu, Yuewei Ming, Jianping Yin: Distance Based Multiple Kernel ELM: A Fast Multiple Kernel Learning Approach. Mathematical Problems in Engineering[[PDF]](http://downloads.hindawi.com/journals/mpe/2015/372748.pdf)
 
 6.Hang Gao, **Xinwang Liu**, Yuxing Peng: Sample-based Extreme Learning Machine with Absent Data. Mathematical Problems in Engineering .
 
@@ -172,31 +172,31 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 1.**Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: Global and Local Structure Preservation for Feature Selection. IEEE Transactions on Neural Networks and Learning Systems 25(6): 1083-1095 (2014) (CCF Rank B) 
 
-2.**Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin: Sample-Adaptive Multiple Kernel Learning. Proceedings of the Twenty-Eighth AAAI Conference on Artiﬁcial Intelligence: (1975-1981), July 27-31, 2014, Qu´ebec City, Qu´ebec, Canada (CCF Rank A) 
+2.**Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin: Sample-Adaptive Multiple Kernel Learning. Proceedings of the Twenty-Eighth AAAI Conference on Artiﬁcial Intelligence: (1975-1981), July 27-31, 2014, Qu´ebec City, Qu´ebec, Canada (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8332/8839)
 
-3.**Xinwang Liu**, Jianping Yin, Jun Long: On Radius-Incorporated Multiple Kernel Learning. Proceedings of the 11th International Conference on Modeling Decisions for Artiﬁcial Intelligence: (227-240), October 29-31, 2014, Tokyo, Japan. 
+3.**Xinwang Liu**, Jianping Yin, Jun Long: On Radius-Incorporated Multiple Kernel Learning. Proceedings of the 11th International Conference on Modeling Decisions for Artiﬁcial Intelligence: (227-240), October 29-31, 2014, Tokyo, Japan. [[PDF]]
 
-4.Shangrong Huang, Jian Zhang, **Xinwang Liu**, Lei Wang: A Method of Discriminative Information Preservation and In-Dimension Distance Minimization Method for Feature Selection. 22nd International Conference on Pattern Recognition: (16151620), August 24-28, 2014, Stockholm, Sweden. (CCF Rank C) 
+4.Shangrong Huang, Jian Zhang, **Xinwang Liu**, Lei Wang: A Method of Discriminative Information Preservation and In-Dimension Distance Minimization Method for Feature Selection. 22nd International Conference on Pattern Recognition: (16151620), August 24-28, 2014, Stockholm, Sweden. (CCF Rank C) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6976996/)
 
-5.Dongyan Guo, Jian Zhang, **Xinwang Liu**, Ying Cui, Chunxia Zhao: Multiple Kernel Learning Based Multi-View Spectral Clustering. 22nd International Conference on Pattern Recognition: (3774-3779), August 24-28, 2014, Stockholm, Sweden. (CCF Rank C) 
+5.Dongyan Guo, Jian Zhang, **Xinwang Liu**, Ying Cui, Chunxia Zhao: Multiple Kernel Learning Based Multi-View Spectral Clustering. 22nd International Conference on Pattern Recognition: (3774-3779), August 24-28, 2014, Stockholm, Sweden. (CCF Rank C)[[PDF]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2014/data/5209d774.pdf)
 
-6.Sihang Zhou, **Xinwang Liu**, Chengzhang Zhu, Qiang Liu, Jianping Yin: Spectral clustering-based local and global structure preservation for feature selection. International Joint Conference on Neural Networks: (550-557), July 6-11, 2014, Beijing, China. (CCF Rank C)
+6.Sihang Zhou, **Xinwang Liu**, Chengzhang Zhu, Qiang Liu, Jianping Yin: Spectral clustering-based local and global structure preservation for feature selection. International Joint Conference on Neural Networks: (550-557), July 6-11, 2014, Beijing, China. (CCF Rank C)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6889641/)
 
-7.Chengzhang Zhu, **Xinwang Liu**, Sihang Zhou, Qiang Liu, Jianping Yin: A binary feature selection framework in kernel spaces. International Joint Conference on Neural Networks: (4190-4197), July 6-11, 2014, Beijing, China. (CCF Rank C)
+7.Chengzhang Zhu, **Xinwang Liu**, Sihang Zhou, Qiang Liu, Jianping Yin: A binary feature selection framework in kernel spaces. International Joint Conference on Neural Networks: (4190-4197), July 6-11, 2014, Beijing, China. (CCF Rank C)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6889639/)
 
 ### 2013
 
-1.**Xinwang Liu**, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: An Adaptive Approach to Learning Optimal Neighborhood Kernels. IEEE Transactions on Cybernetics 43(1): 371-384 (2013) (CCF Rank B) 
+1.**Xinwang Liu**, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: An Adaptive Approach to Learning Optimal Neighborhood Kernels. IEEE Transactions on Cybernetics 43(1): 371-384 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.2961&rep=rep1&type=pdf)
 
-2.**Xinwang Liu**, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning. IEEE Transactions on Cybernetics 43(2): 557-569 (2013) (CCF Rank B) 
+2.**Xinwang Liu**, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning. IEEE Transactions on Cybernetics 43(2): 557-569 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf)
 
-3.Yubin Zhan, Jianping Yin, **Xinwang Liu**: Nonlinear discriminant clustering based on spectral regularization. Neural Computing and Applications 22(7-8): 1599-1608 (2013) (CCF Rank C)
+3.Yubin Zhan, Jianping Yin, **Xinwang Liu**: Nonlinear discriminant clustering based on spectral regularization. Neural Computing and Applications 22(7-8): 1599-1608 (2013) (CCF Rank C)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.8856&rep=rep1&type=pdf)
 
-4.Bo Liu, Bin Fang, **Xinwang Liu**, Jie Chen, Zhenghong Huang, Xiping He: Large Margin Subspace Learning for feature selection. Pattern Recognition 46(10): 27982806 (2013) (CCF Rank B)
+4.Bo Liu, Bin Fang, **Xinwang Liu**, Jie Chen, Zhenghong Huang, Xiping He: Large Margin Subspace Learning for feature selection. Pattern Recognition 46(10): 27982806 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.261&rep=rep1&type=pdf)
 
 ### 2012
 
-1.**Xinwang Liu**, Lei Wang, Jianping Yin, Lingqiao Liu: Incorporation of radius-info can be simple with SimpleMKL. Neurocomputing 89: 30-38 (2012) (CCF Rank C）
+1.**Xinwang Liu**, Lei Wang, Jianping Yin, Lingqiao Liu: Incorporation of radius-info can be simple with SimpleMKL. Neurocomputing 89: 30-38 (2012) (CCF Rank C）[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.9614&rep=rep1&type=pdf)
 
 ### 2011
 

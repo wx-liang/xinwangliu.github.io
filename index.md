@@ -70,69 +70,69 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 ### 2018
 
-1.Jianfeng Lu, Yun Xin, Zhao Zhang, **Xinwang Liu**, Kenli Li: Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing. IEEE Trans. Information Forensics and Security 13(11): 2801-2815 (2018). (CCF Rank A) [[PDF]]
+1.Jianfeng Lu, Yun Xin, Zhao Zhang, **Xinwang Liu**, Kenli Li: Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing. IEEE Trans. Information Forensics and Security 13(11): 2801-2815 (2018). (CCF Rank A) [[PDF]](https://arxiv.org/pdf/1712.09848.pdf)
 
 2.Xinzhong Zhu, **Xinwang Liu**Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: Localized Incomplete Multiple Kernel k-means. IJCAI 2018: 3271-3277. (CCF Rank A)[[PDF]](https://www.ijcai.org/proceedings/2018/0454.pdf)
 
-3.Changqing Zhang, Yeqinq Liu, Yue Liu, Qinghua Hu, **Xinwang Liu**, Pengfei Zhu: FISH-MML: Fisher-HSIC Multi-View Metric Learning. IJCAI 2018: 3054-3060. (CCF Rank A) [[PDF]]
+3.Changqing Zhang, Yeqinq Liu, Yue Liu, Qinghua Hu, **Xinwang Liu**, Pengfei Zhu: FISH-MML: Fisher-HSIC Multi-View Metric Learning. IJCAI 2018: 3054-3060. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2018/0424.pdf)
 
-4.Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and **Xinwang Liu**: Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition. AAAI 2018. (CCF Rank A) [[PDF]]
+4.Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and **Xinwang Liu**: Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition. AAAI 2018. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16106/16338)
 
-5.Changqing Zhang, Ziwei Yu, Qinghua Hu, Pengfei Zhu, Xiaobo Wang, and **Xinwang Liu**: Latent Semantic Aware Multi-view Multi-label Classification. AAAI 2018. (CCF Rank A) [[PDF]]
+5.Changqing Zhang, Ziwei Yu, Qinghua Hu, Pengfei Zhu, Xiaobo Wang, and **Xinwang Liu**: Latent Semantic Aware Multi-view Multi-label Classification. AAAI 2018. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16829/16752)
 
-6.Hong Tao, Chenping Hou, **Xinwang Liu**, Dongyun Yi and Jubo Zhu: Reliable Multi-View Clustering. AAAI 2018. (CCF Rank A)[[PDF]]
+6.Hong Tao, Chenping Hou, **Xinwang Liu**, Dongyun Yi and Jubo Zhu: Reliable Multi-View Clustering. AAAI 2018. (CCF Rank A)[[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16245/16686)
 
-7.Melih Engin, Lei Wang, Luping Zhou, **Xinwang Liu**: DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition. ECCV (2) 2018: 629645. (CCF Rank B) [[PDF]]
+7.Melih Engin, Lei Wang, Luping Zhou, **Xinwang Liu**: DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition. ECCV (2) 2018: 629645. (CCF Rank B) [[PDF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf)
 
 8.Chang Tang, Xinzhong Zhu, Jiajia Chen, Pichao Wang, **Xinwang Liu**, Jie Tian: Robust graph regularized unsupervised feature selection. Expert Syst. Appl. 96: 64-76 (2018). (CCF Rank C) [[PDF]]
 
-9.Qiang Wang, Yong Dou, **Xinwang Liu**, Fei Xia, Qi Lv, Ke Yang: Local kernel alignment based multi-view clustering using extreme learning machine. Neurocomputing 275: 1099-1111 (2018). (CCF Rank C) [[PDF]]
+9.Qiang Wang, Yong Dou, **Xinwang Liu**, Fei Xia, Qi Lv, Ke Yang: Local kernel alignment based multi-view clustering using extreme learning machine. Neurocomputing 275: 1099-1111 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231217315795)
 
-10.Jingming Xue, Sihang Zhou, Qiang Liu, **Xinwang Liu**, Jianping Yin: Financial time series prediction using `2,1RF-ELM. Neurocomputing 277: 176-186 (2018). (CCF Rank C) [[PDF]]
+10.Jingming Xue, Sihang Zhou, Qiang Liu, **Xinwang Liu**, Jianping Yin: Financial time series prediction using `2,1RF-ELM. Neurocomputing 277: 176-186 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231217314030)
 
-11.Yawei Zhao, Yuewei Ming, **Xinwang Liu**, En Zhu, Kaikai Zhao, Jianping Yin: Large-scale k-means clustering via variance reduction. Neurocomputing: 184-194 (2018). (CCF Rank C) [[PDF]]
+11.Yawei Zhao, Yuewei Ming, **Xinwang Liu**, En Zhu, Kaikai Zhao, Jianping Yin: Large-scale k-means clustering via variance reduction. Neurocomputing: 184-194 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231218304582)
 
 12.Yuewei Ming, En Zhu, Mao Wang, Yongkai Ye, **Xinwang Liu**, Jianping Yin: DMP-ELMs: Data and model parallel extreme learning machines for large-scale learning tasks. Neurocomputing 320: 85-97 (2018). (CCF Rank C)[[PDF]]
 
 13.Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, Jiajia Chen, Lizhe Wang, Wanqing Li: Robust unsupervised feature selection via dual self-representation and manifold regularization. Knowl.-Based Syst. 145: 109-120 (2018). (CCF Rank C) [[PDF]]
 
-14.Chang Tang, Jiajia Chen, **Xinwang Liu**, Miaomiao Li, Pichao Wang, Minhui Wang, Peng Lu: Consensus learning guided multi-view unsupervised feature selection. Knowl.-Based Syst. 160: 49-60 (2018). (CCF Rank C) [[PDF]]
+14.Chang Tang, Jiajia Chen, **Xinwang Liu**, Miaomiao Li, Pichao Wang, Minhui Wang, Peng Lu: Consensus learning guided multi-view unsupervised feature selection. Knowl.-Based Syst. 160: 49-60 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S095070511830337X)
 
-15.Jingming Xue, Qiang Liu, Miaomiao Li, **Xinwang Liu**, Yongkai Ye, Siqi Wang, Jianping Yin: Incremental multiple kernel extreme learning machine and its application in Robo-advisors. Soft Comput. 22(11): 3507-3517 (2018). (CCF Rank C) [[PDF]]
+15.Jingming Xue, Qiang Liu, Miaomiao Li, **Xinwang Liu**, Yongkai Ye, Siqi Wang, Jianping Yin: Incremental multiple kernel extreme learning machine and its application in Robo-advisors. Soft Comput. 22(11): 3507-3517 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://link.springer.com/article/10.1007/s00500-018-3031-2)
 
 16.Wentao Zhao, Qian Li, Chengzhang Zhu, Jianglong Song, **Xinwang Liu**, Jianping Yin: Model-aware categorical data embedding: a data-driven approach. Soft Comput. 22(11): 3603-3619 (2018). (CCF Rank C)[[PDF]]
 
-17.Yawei Zhao, Kai Xu, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Jianping Yin: Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets. IEEE Transactions on Knowledge and Data Engineering. (Accepted Aug 2018)[[PDF]]
+17.Yawei Zhao, Kai Xu, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Jianping Yin: Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets. IEEE Transactions on Knowledge and Data Engineering. (Accepted Aug 2018)[[PDF]](https://arxiv.org/pdf/1808.06556.pdf)
 
 ### 2017
 
-1.**Xinwang Liu**, Miaomiao Li, Lei Wang, Yong Dou, Jianping Yin and En Zhu: Multiple Kernel k-means with Incomplete Kernels. AAAI 2017. (CCF Rank A) 
+1.**Xinwang Liu**, Miaomiao Li, Lei Wang, Yong Dou, Jianping Yin and En Zhu: Multiple Kernel k-means with Incomplete Kernels. AAAI 2017. (CCF Rank A) [[PDF]](https://pdfs.semanticscholar.org/8a43/479648816f7927487457c1d02f2bd6b4e383.pdf)
 
-2.**Xinwang Liu**, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: Optimal Neighborhood Kernel Clustering with Multiple Kernels. AAAI 2017. (CCF Rank A) 
+2.**Xinwang Liu**, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: Optimal Neighborhood Kernel Clustering with Multiple Kernels. AAAI 2017. (CCF Rank A)[[PDF]] (https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14761/14403)
 
-3.Yueqing Wang, **Xinwang Liu**, Yong Dou: Multiple Kernel Clustering Framework with Improved Kernels. IJCAI 2017. (CCF Rank A) 
+3.Yueqing Wang, **Xinwang Liu**, Yong Dou: Multiple Kernel Clustering Framework with Improved Kernels. IJCAI 2017. (CCF Rank A)[[PDF]] (https://pdfs.semanticscholar.org/440c/02392977e3f849fe3375bc2ca2d24f347fa7.pdf)
 
-4.Yueqing Wang, **Xinwang Liu**, Yong Dou: Approximate Large-scale Multiple Kernel k-means using Deep Neuron Network. IJCAI 2017. (CCF Rank A) 
+4.Yueqing Wang, **Xinwang Liu**, Yong Dou: Approximate Large-scale Multiple Kernel k-means using Deep Neuron Network. IJCAI 2017. (CCF Rank A)[[PDF]](https://www.ijcai.org/proceedings/2017/0419.pdf)
 
-5.Xifeng Guo, Long Gao, **Xinwang Liu** and Jianping Yin: Improved Deep Embedded Clustering with Local Structure Preservation. IJCAI 2017. (CCF Rank A) 
+5.Xifeng Guo, Long Gao, **Xinwang Liu** and Jianping Yin: Improved Deep Embedded Clustering with Local Structure Preservation. IJCAI 2017. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2017/0243.pdf)
 
 6.Ting Li, Yiming Zhang, Dongsheng Li, **Xinwang Liu**, Yuxing Peng: Fast Compressive Spectral Clustering. ICDM 2017: 949-954. (CCF Rank B) 
 
-7.Xifeng Guo, **Xinwang Liu**, En Zhu, Jianping Yin: Deep Clustering with Convolutional Autoencoders. ICONIP (2) 2017: 373-382. (CCF Rank C) 
+7.Xifeng Guo, **Xinwang Liu**, En Zhu, Jianping Yin: Deep Clustering with Convolutional Autoencoders. ICONIP (2) 2017: 373-382. (CCF Rank C) [[PDF]](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf)
 
-8.Yueqing Wang, **Xinwang Liu**, Yong Dou: Multiple Kernel Learning with Hybrid Kernel Alignment Maximization. Pattern Recognition 70 (2017) 104-111. (CCF Rank B)
+8.Yueqing Wang, **Xinwang Liu**, Yong Dou: Multiple Kernel Learning with Hybrid Kernel Alignment Maximization. Pattern Recognition 70 (2017) 104-111. (CCF Rank B)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0031320317301863)
 
-9.Teng Li, Yong Dou, **Xinwang Liu**, Yang Zhao, Qi Lv: Multiple kernel clustering with corrupted kernels. Neurocomputing 267 (2017): 447-454. (CCF Rank C) 
+9.Teng Li, Yong Dou, **Xinwang Liu**, Yang Zhao, Qi Lv: Multiple kernel clustering with corrupted kernels. Neurocomputing 267 (2017): 447-454. (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231217311724)
 
-10.Yongkai Ye, **Xinwang Liu**, Qiang Liu, Jianping Yin: Consensus Kernel K-Means Clustering for Incomplete Multiview Data. Comp. Int. and Neurosc. 2017: 3961718:1-3961718:11 (2017)
+10.Yongkai Ye, **Xinwang Liu**, Qiang Liu, Jianping Yin: Consensus Kernel K-Means Clustering for Incomplete Multiview Data. Comp. Int. and Neurosc. 2017: 3961718:1-3961718:11 (2017)[[PDF]](http://downloads.hindawi.com/journals/cin/2017/3961718.pdf)
 
 ### 2016
 
 1.Miaomiao Li, **Xinwang Liu**, Lei Wang, Yong Dou and Jianping Yin: Multi-view Clustering via Maximizing Local Kernel Alignment. International Joint Conference on Artiﬁcial Intelligence 2016: (1704-1710), July 9-16, 2016, New York, USA (CCF Rank A) 
 
-2.**Xinwang Liu**, Yong Dou, Jianping Yin, Lei Wang, En Zhu: Multiple Kernel k-means Clustering with Matrix-induced Regularization. Proceedings of the Thirtieth AAAI Conference on Artiﬁcial Intelligence: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) 
+2.**Xinwang Liu**, Yong Dou, Jianping Yin, Lei Wang, En Zhu: Multiple Kernel k-means Clustering with Matrix-induced Regularization. Proceedings of the Thirtieth AAAI Conference on Artiﬁcial Intelligence: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819)
 
-3.Yang Zhao, Yong Dou, **Xinwang Liu**, Teng Li: ELM based multiple kernel k-means with diversity-induced regularization. International Joint Conference on Neural Networks: (2699-2705), July 24-29, 2016, Vancouver, BC, Canada.(CCF Rank C) 
+3.Yang Zhao, Yong Dou, **Xinwang Liu**, Teng Li: ELM based multiple kernel k-means with diversity-induced regularization. International Joint Conference on Neural Networks: (2699-2705), July 24-29, 2016, Vancouver, BC, Canada.(CCF Rank C) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7727538/)
 
 4.Yongkai Ye, **Xinwang Liu**, En Zhu, Jianping Yin: Co-Regularized Kernel K-Means for Multi-View Clustering. International Conference on Pattern Recognition: Dec 4-8, 2016, Cancun, Mexico. (CCF Rank C) 
 

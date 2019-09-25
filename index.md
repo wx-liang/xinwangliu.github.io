@@ -108,9 +108,9 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 1.**Xinwang Liu**, Miaomiao Li, Lei Wang, Yong Dou, Jianping Yin and En Zhu: Multiple Kernel k-means with Incomplete Kernels. AAAI 2017. (CCF Rank A) [[PDF]](https://pdfs.semanticscholar.org/8a43/479648816f7927487457c1d02f2bd6b4e383.pdf)
 
-2.**Xinwang Liu**, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: Optimal Neighborhood Kernel Clustering with Multiple Kernels. AAAI 2017. (CCF Rank A)[[PDF]] (https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14761/14403)
+2.**Xinwang Liu**, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: Optimal Neighborhood Kernel Clustering with Multiple Kernels. AAAI 2017. (CCF Rank A)[[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14761/14403)
 
-3.Yueqing Wang, **Xinwang Liu**, Yong Dou: Multiple Kernel Clustering Framework with Improved Kernels. IJCAI 2017. (CCF Rank A)[[PDF]] (https://pdfs.semanticscholar.org/440c/02392977e3f849fe3375bc2ca2d24f347fa7.pdf)
+3.Yueqing Wang, **Xinwang Liu**, Yong Dou: Multiple Kernel Clustering Framework with Improved Kernels. IJCAI 2017. (CCF Rank A)[[PDF]](https://pdfs.semanticscholar.org/440c/02392977e3f849fe3375bc2ca2d24f347fa7.pdf)
 
 4.Yueqing Wang, **Xinwang Liu**, Yong Dou: Approximate Large-scale Multiple Kernel k-means using Deep Neuron Network. IJCAI 2017. (CCF Rank A)[[PDF]](https://www.ijcai.org/proceedings/2017/0419.pdf)
 

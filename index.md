@@ -192,7 +192,7 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 3.Yubin Zhan, Jianping Yin, **Xinwang Liu**: Nonlinear discriminant clustering based on spectral regularization. Neural Computing and Applications 22(7-8): 1599-1608 (2013) (CCF Rank C)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.8856&rep=rep1&type=pdf)
 
-4.Bo Liu, Bin Fang, **Xinwang Liu**, Jie Chen, Zhenghong Huang, Xiping He: Large Margin Subspace Learning for feature selection. Pattern Recognition 46(10): 27982806 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.261&rep=rep1&type=pdf)
+4.Bo Liu, Bin Fang, **Xinwang Liu**, Jie Chen, Zhenghong Huang, Xiping He: Large Margin Subspace Learning for feature selection. Pattern Recognition 46(10): 2798-2806 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.261&rep=rep1&type=pdf)
 
 ### 2012
 

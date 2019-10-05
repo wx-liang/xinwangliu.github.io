@@ -56,7 +56,7 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 14.Wenzhang Zhuge, Chenping Hou, **Xinwang Liu**, Hong Tao and Dongyun Yi: Simultaneous Representation Learning and Clustering for Incomplete Multi-view Data. IJCAI 2019.  (Accepted May 2019)[[PDF]](https://www.ijcai.org/proceedings/2019/0623.pdf)
 
-15.Sihang Zhou, **Xinwang Liu**, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation. IEEE Transactions on Neural Networks and Learning Systems. (Accepted May 2019)
+15.Sihang Zhou, **Xinwang Liu**, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation. IEEE Transactions on Neural Networks and Learning Systems. (Accepted May 2019)[[PDF]](https://sz.btfs.mail.ftn.qq.com/ftn_handler/ce01fa6c08d89281abb917adb4860a0062535ccb043ad0e21424681e656867d000168ff1096f39ce34fc0660fc45ba8c2ebecdc30bad5af9f350a6b699058421?compressed=0&dtype=1&fname=Multiple%20Kernel%20Clustering%20with%20Neighbor-Kernel%20Subspace%20Segmentation.pdf)
 
 16.Sihang Zhou, En Zhu, **Xinwang Liu**, Tianming Zheng, Qiang Liu, Jingyuan Xia, and Jianping Yin: Subspace Segmentation-based Robust Multiple Kernel Clustering. Information Fusion. (Accepted June 2019)[[PDF]](https://sci-hub.tw/10.1016/j.inffus.2019.06.017)
 
@@ -128,23 +128,23 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 ### 2016
 
-1.Miaomiao Li, **Xinwang Liu**, Lei Wang, Yong Dou and Jianping Yin: Multi-view Clustering via Maximizing Local Kernel Alignment. International Joint Conference on Artiﬁcial Intelligence 2016: (1704-1710), July 9-16, 2016, New York, USA (CCF Rank A) 
+1.Miaomiao Li, **Xinwang Liu**, Lei Wang, Yong Dou and Jianping Yin: Multi-view Clustering via Maximizing Local Kernel Alignment. International Joint Conference on Artiﬁcial Intelligence 2016: (1704-1710), July 9-16, 2016, New York, USA (CCF Rank A)
 
 2.**Xinwang Liu**, Yong Dou, Jianping Yin, Lei Wang, En Zhu: Multiple Kernel k-means Clustering with Matrix-induced Regularization. Proceedings of the Thirtieth AAAI Conference on Artiﬁcial Intelligence: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819)
 
 3.Yang Zhao, Yong Dou, **Xinwang Liu**, Teng Li: ELM based multiple kernel k-means with diversity-induced regularization. International Joint Conference on Neural Networks: (2699-2705), July 24-29, 2016, Vancouver, BC, Canada.(CCF Rank C) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7727538/)
 
-4.Yongkai Ye, **Xinwang Liu**, En Zhu, Jianping Yin: Co-Regularized Kernel K-Means for Multi-View Clustering. International Conference on Pattern Recognition: Dec 4-8, 2016, Cancun, Mexico. (CCF Rank C) 
+4.Yongkai Ye, **Xinwang Liu**, En Zhu, Jianping Yin: Co-Regularized Kernel K-Means for Multi-View Clustering. International Conference on Pattern Recognition: Dec 4-8, 2016, Cancun, Mexico. (CCF Rank C)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7899863/)
 
 5.Wei Chen, Xifeng Guo, **Xinwang Liu**, En Zhu, Jianping Yin: Appearance Changes Detection During Tracking. International Conference on Pattern Recognition: Dec 4-8, 2016, Cancun, Mexico. (CCF Rank C)[[PDF]](https://xifengguo.github.io/papers/ICPR16-Appearance.pdf)
 
-6.Yule Li, Yong Dou, **Xinwang Liu**, Teng Li: Localized region context and object feature fusion for people head detection. ICIP 2016: 594-598. (CCF Rank C) 
+6.Yule Li, Yong Dou, **Xinwang Liu**, Teng Li: Localized region context and object feature fusion for people head detection. ICIP 2016: 594-598. (CCF Rank C)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7532426/)
 
 7.Peidai Xie, **Xinwang Liu**, Jianping Yin, Yongjun Wang: Absent extreme learning machine algorithm with application to packed executable identification. Neural Computing and Application 27(1): 93-100 (2016). (CCF Rank C)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.6568&rep=rep1&type=pdf)
 
-8.Qiang Liu, Sihang Zhou, Chengzhang Zhu, **Xinwang Liu**, Jianping Yin: MI-ELM: Highly Efficient Multi-Instance Learning Based on Hierarchical Extreme Learning Machine, Neurocomputing 173: 1044-1053 (2016) (CCF Rank C). 
+8.Qiang Liu, Sihang Zhou, Chengzhang Zhu, **Xinwang Liu**, Jianping Yin: MI-ELM: Highly Efficient Multi-Instance Learning Based on Hierarchical Extreme Learning Machine, Neurocomputing 173: 1044-1053 (2016) (CCF Rank C).[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215012333)
 
-9.Yueqing Wang, Yong Dou, **Xinwang Liu**, Yuanwu Lei: PR-ELM: Parallel regularized extreme learning machine based on cluster. Neurocomputing 173: 1073-1081 (2016) (CCF Rank C). 
+9.Yueqing Wang, Yong Dou, **Xinwang Liu**, Yuanwu Lei: PR-ELM: Parallel regularized extreme learning machine based on cluster. Neurocomputing 173: 1073-1081 (2016) (CCF Rank C).[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215012461)
 
 10.Sihang Zhou, **Xinwang Liu**, Qiang Liu, Siqi Wang, Chengzhang Zhu, Jianping Yin: Random Fourier Extreme Learning Machine with l21-norm Regularization. Neurocomputing 174: 143-153 (2016) (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215011455)
 
@@ -166,15 +166,15 @@ Full publications in [[Google Scholar]](https://scholar.google.com/citations?hl=
 
 5.Chengzhang Zhu, **Xinwang Liu**, Qiang Liu, Yuewei Ming, Jianping Yin: Distance Based Multiple Kernel ELM: A Fast Multiple Kernel Learning Approach. Mathematical Problems in Engineering[[PDF]](http://downloads.hindawi.com/journals/mpe/2015/372748.pdf)
 
-6.Hang Gao, **Xinwang Liu**, Yuxing Peng: Sample-based Extreme Learning Machine with Absent Data. Mathematical Problems in Engineering .
+6.Hang Gao, **Xinwang Liu**, Yuxing Peng: Sample-based Extreme Learning Machine with Absent Data. Mathematical Problems in Engineering .[[PDF]](http://downloads.hindawi.com/journals/mpe/2015/145156.pdf)
 
 ### 2014
 
-1.**Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: Global and Local Structure Preservation for Feature Selection. IEEE Transactions on Neural Networks and Learning Systems 25(6): 1083-1095 (2014) (CCF Rank B) 
+1.**Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: Global and Local Structure Preservation for Feature Selection. IEEE Transactions on Neural Networks and Learning Systems 25(6): 1083-1095 (2014) (CCF Rank B)[[PDF]](https://www.researchgate.net/profile/Xinwang_Liu/publication/257984802_Global_and_Local_Structure_Preservation_for_Feature_Selection/links/0deec527abd45e2d46000000.pdf)
 
 2.**Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin: Sample-Adaptive Multiple Kernel Learning. Proceedings of the Twenty-Eighth AAAI Conference on Artiﬁcial Intelligence: (1975-1981), July 27-31, 2014, Qu´ebec City, Qu´ebec, Canada (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8332/8839)
 
-3.**Xinwang Liu**, Jianping Yin, Jun Long: On Radius-Incorporated Multiple Kernel Learning. Proceedings of the 11th International Conference on Modeling Decisions for Artiﬁcial Intelligence: (227-240), October 29-31, 2014, Tokyo, Japan. [[PDF]]
+3.**Xinwang Liu**, Jianping Yin, Jun Long: On Radius-Incorporated Multiple Kernel Learning. Proceedings of the 11th International Conference on Modeling Decisions for Artiﬁcial Intelligence: (227-240), October 29-31, 2014, Tokyo, Japan. [[PDF,page217]](https://sci-hub.tw/https://link.springer.com/chapter/10.1007/978-3-319-12054-6_20)
 
 4.Shangrong Huang, Jian Zhang, **Xinwang Liu**, Lei Wang: A Method of Discriminative Information Preservation and In-Dimension Distance Minimization Method for Feature Selection. 22nd International Conference on Pattern Recognition: (16151620), August 24-28, 2014, Stockholm, Sweden. (CCF Rank C) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6976996/)
 

@@ -3,14 +3,8 @@ layout: post
 title:  "News"
 date:   2020-03-30 21:03:36 +0530
 ---
-Professor with the school of computer, National University of Defense Technology (NUDT), Changsha, Hunan, China. 
+. [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
-My research interests include kernel learning, multi-view learning, unsupervised representation learning and some related topics. 
+. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by IEEE Transactions on Multimedia (TMM).
 
-Please drop me a message if you also have interests with me by my email: xinwangliu@nudt.edu.cn or 1022xinwang.liu@gmail.com.
-
-Google Scholar: [Google Scholar][Google-Scholar]
-
-
-[Google-Scholar]: https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate
-
+. [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).

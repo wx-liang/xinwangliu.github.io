@@ -11,7 +11,7 @@ Please drop me a message if you also have interests with me by my email: xinwang
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Selected Publications:
-$\color{red}{红色字}$
+
 1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
 
 2. **Xinwang Liu**, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "Absent Multiple Kernel Learning Algorithms". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**), 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf)[[Code]](https://github.com/xinwangliu/absentkernel)
@@ -24,9 +24,9 @@ $\color{red}{红色字}$
 
 ### 2020
 
-1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: Efficient and Effective Incomplete Multi-view Clustering. **IEEE Transactions on Pattern Analysis and Machine Intelligence**. (Accepted Feb 14th, 2020) (CCF Rank A)
+1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: Efficient and Effective Incomplete Multi-view Clustering. **IEEE Transactions on Pattern Analysis and Machine Intelligence**. (Accepted Feb 14th, 2020) (CCF Rank A) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/)
 
-2. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: Deep Learning for Generic Object Detection: A Survey. **International Journal of Computer Vision** 128(2): 261-318 (2020)(CCF Rank A)
+2. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: Deep Learning for Generic Object Detection: A Survey. **International Journal of Computer Vision** 128(2): 261-318 (2020)(CCF Rank A) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
 
 3. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network. **IEEE Transactions on Multimedia**. (Accepted March 16th, 2020) (CCF Rank B)
 

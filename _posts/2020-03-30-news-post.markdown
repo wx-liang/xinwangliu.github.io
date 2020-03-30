@@ -3,8 +3,10 @@ layout: post
 title:  "News"
 date:   2020-03-30 21:03:36 +0530
 ---
-. [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+ The latest news.
 
-. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by IEEE Transactions on Multimedia (TMM).
+. [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color=#008000>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 
-. [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color=#008000>IEEE Transactions on Multimedia (TMM)</font>.
+
+. [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color=#008000>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.

@@ -11,7 +11,7 @@ Please drop me a message if you also have interests with me by my email: xinwang
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Selected Publications:
-
+$\color{red}{红色字}$
 1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
 
 2. **Xinwang Liu**, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "Absent Multiple Kernel Learning Algorithms". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**), 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf)[[Code]](https://github.com/xinwangliu/absentkernel)

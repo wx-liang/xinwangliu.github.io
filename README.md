@@ -10,6 +10,14 @@ Please drop me a message if you also have interests with me by my email: xinwang
 
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
+## News:
+. [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+
+. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by IEEE Transactions on Multimedia (TMM).
+
+. [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+
+
 ## Selected Publications:
 
 1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)

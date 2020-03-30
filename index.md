@@ -20,7 +20,6 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "Late Fusion Incomplete Multi-view Clustering". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**) 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
 
-
 ## All Publications:
 
 ### 2020

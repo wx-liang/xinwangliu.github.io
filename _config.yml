@@ -1,10 +1,12 @@
-title: Your awesome title
+title: Xinwang Liu's Homepage
 author: GitHub User
 email: xinwangliu@nudt.edu.cn or 1022xinwang.liu@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Professor with the school of computer, National 
+  University of Defense Technology (NUDT), Changsha, 
+  Hunan, China. My research interests include kernel 
+  learning, multi-view learning, unsupervised representation 
+  learning and some related topics. 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -13,15 +15,13 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Xinwang Liu
-  tagline: Developer. Designer
+  tagline: Professor with the school of computer, National University of Defense Technology (NUDT).
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  xinwangliu
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll

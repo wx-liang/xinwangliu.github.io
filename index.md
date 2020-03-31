@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-**News**
+#News#
 
 . [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted
  by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.

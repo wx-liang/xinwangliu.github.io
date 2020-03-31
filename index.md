@@ -5,7 +5,7 @@ layout: page
 
 [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 
-[March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
+[March 17, 2020] "**BR![](http://latex.codecogs.com/gif.latex?\^2)Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
 
 [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
 
@@ -20,8 +20,6 @@ Please drop me a message if you also have interests with me by my email: xinwang
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
 # Selected Publications:
-
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
 
@@ -39,7 +37,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 2. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: *Deep Learning for Generic Object Detection: A Survey*. <font color="green">International Journal of Computer Vision</font> 128(2): 261-318 (2020)(CCF Rank A) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
 
-3. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 16th, 2020) (CCF Rank B)
+3. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *BR![](http://latex.codecogs.com/gif.latex?\^2)Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 16th, 2020) (CCF Rank B)
 
 4. Peng Zhou, Liang Du, **Xinwang Liu**, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: *Self-paced Clustering Ensemble*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font>. (Accepted March 29th, 2020)(CCF Rank B)
  
@@ -49,7 +47,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 7. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: *R$^2$MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
-8. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Zhigang Luo, Wen Gao: CGD: *Multi-view Clustering via Cross-view Graph Diffusion*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
+8. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Zhigang Luo, Wen Gao: *CGD: Multi-view Clustering via Cross-view Graph Diffusion*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
 9. Li Cheng, Yijie Wang, **Xinwang Liu** and Bin Li: *Outlier Detection Ensemble with Embedded Feature Selection*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
@@ -98,39 +96,39 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 ## 2018
 
-1. Jianfeng Lu, Yun Xin, Zhao Zhang, **Xinwang Liu**, Kenli Li: Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing. IEEE Trans. Information Forensics and Security 13(11): 2801-2815 (2018). (CCF Rank A) [[PDF]](https://arxiv.org/pdf/1712.09848.pdf)
+1. Jianfeng Lu, Yun Xin, Zhao Zhang, **Xinwang Liu**, Kenli Li: *Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing*. <font color="green">IEEE Trans. Information Forensics and Security</font> 13(11): 2801-2815 (2018). (CCF Rank A) [[PDF]](https://arxiv.org/pdf/1712.09848.pdf)
 
-2. Yawei Zhao, Kai Xu, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Jianping Yin: Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets. IEEE Transactions on Knowledge and Data Engineering. (Accepted Aug 2018)[[PDF]](https://arxiv.org/pdf/1808.06556.pdf)
+2. Yawei Zhao, Kai Xu, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Jianping Yin: *Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted Aug 2018)[[PDF]](https://arxiv.org/pdf/1808.06556.pdf)
 
-3. Xinzhong Zhu, **Xinwang Liu**Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: Localized Incomplete Multiple Kernel k-means. IJCAI 2018: 3271-3277. (CCF Rank A)[[PDF]](https://www.ijcai.org/proceedings/2018/0454.pdf)
+3. Xinzhong Zhu, **Xinwang Liu**Xinwang Liu, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: *Localized Incomplete Multiple Kernel k-means*. <font color="green">IJCAI 2018</font>: 3271-3277. (CCF Rank A)[[PDF]](https://www.ijcai.org/proceedings/2018/0454.pdf)
 
-4. Changqing Zhang, Yeqinq Liu, Yue Liu, Qinghua Hu, **Xinwang Liu**, Pengfei Zhu: FISH-MML: Fisher-HSIC Multi-View Metric Learning. IJCAI 2018: 3054-3060. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2018/0424.pdf)
+4. Changqing Zhang, Yeqinq Liu, Yue Liu, Qinghua Hu, **Xinwang Liu**, Pengfei Zhu: *FISH-MML: Fisher-HSIC Multi-View Metric Learning*. <font color="green">IJCAI 2018</font>: 3054-3060. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2018/0424.pdf)
 
-5. Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and **Xinwang Liu**: Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition. AAAI 2018. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16106/16338)
+5. Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and **Xinwang Liu**: *Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition*. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16106/16338)
 
-6. Changqing Zhang, Ziwei Yu, Qinghua Hu, Pengfei Zhu, Xiaobo Wang, and **Xinwang Liu**: Latent Semantic Aware Multi-view Multi-label Classification. AAAI 2018. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16829/16752)
+6. Changqing Zhang, Ziwei Yu, Qinghua Hu, Pengfei Zhu, Xiaobo Wang, and **Xinwang Liu**: *Latent Semantic Aware Multi-view Multi-label Classification*. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16829/16752)
 
-7. Hong Tao, Chenping Hou, **Xinwang Liu**, Dongyun Yi and Jubo Zhu: Reliable Multi-View Clustering. AAAI 2018. (CCF Rank A)[[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16245/16686)
+7. Hong Tao, Chenping Hou, **Xinwang Liu**, Dongyun Yi and Jubo Zhu: *Reliable Multi-View Clustering*. <font color="green">AAAI 2018</font>. (CCF Rank A)[[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16245/16686)
 
-8. Melih Engin, Lei Wang, Luping Zhou, **Xinwang Liu**: DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition. ECCV (2) 2018: 629645. (CCF Rank B) [[PDF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf)
+8. Melih Engin, Lei Wang, Luping Zhou, **Xinwang Liu**: *DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition*. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) [[PDF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf)
 
-9. Chang Tang, Xinzhong Zhu, Jiajia Chen, Pichao Wang, **Xinwang Liu**, Jie Tian: Robust graph regularized unsupervised feature selection. Expert Syst. Appl. 96: 64-76 (2018). (CCF Rank C) [[HTML]](https://www.researchgate.net/publication/321473896_Robust_Graph_Regularized_Unsupervised_Feature_Selection)
+9. Chang Tang, Xinzhong Zhu, Jiajia Chen, Pichao Wang, **Xinwang Liu**, Jie Tian: *Robust graph regularized unsupervised feature selection*. <font color="green">Expert Syst. Appl.</font> 96: 64-76 (2018). (CCF Rank C) [[HTML]](https://www.researchgate.net/publication/321473896_Robust_Graph_Regularized_Unsupervised_Feature_Selection)
 
-10. Qiang Wang, Yong Dou, **Xinwang Liu**, Fei Xia, Qi Lv, Ke Yang: Local kernel alignment based multi-view clustering using extreme learning machine. Neurocomputing 275: 1099-1111 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231217315795)
+10. Qiang Wang, Yong Dou, **Xinwang Liu**, Fei Xia, Qi Lv, Ke Yang: *Local kernel alignment based multi-view clustering using extreme learning machine*. <font color="green">Neurocomputing</font> 275: 1099-1111 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231217315795)
 
-11. Jingming Xue, Sihang Zhou, Qiang Liu, **Xinwang Liu**, Jianping Yin: Financial time series prediction using 2,1RF-ELM. Neurocomputing 277: 176-186 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231217314030)
+11. Jingming Xue, Sihang Zhou, Qiang Liu, **Xinwang Liu**, Jianping Yin: *Financial time series prediction using 2,1RF-ELM*. <font color="green">Neurocomputing</font> 277: 176-186 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231217314030)
 
-12. Yawei Zhao, Yuewei Ming, **Xinwang Liu**, En Zhu, Kaikai Zhao, Jianping Yin: Large-scale k-means clustering via variance reduction. Neurocomputing: 184-194 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231218304582)
+12. Yawei Zhao, Yuewei Ming, **Xinwang Liu**, En Zhu, Kaikai Zhao, Jianping Yin: *Large-scale k-means clustering via variance reduction*. <font color="green">Neurocomputing</font>: 184-194 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231218304582)
 
-13. Yuewei Ming, En Zhu, Mao Wang, Yongkai Ye, **Xinwang Liu**, Jianping Yin: DMP-ELMs: Data and model parallel extreme learning machines for large-scale learning tasks. Neurocomputing 320: 85-97 (2018). (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231218310245)
+13. Yuewei Ming, En Zhu, Mao Wang, Yongkai Ye, **Xinwang Liu**, Jianping Yin: *DMP-ELMs: Data and model parallel extreme learning machines for large-scale learning tasks*. <font color="green">Neurocomputing</font> 320: 85-97 (2018). (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231218310245)
 
-14. Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, Jiajia Chen, Lizhe Wang, Wanqing Li: Robust unsupervised feature selection via dual self-representation and manifold regularization. Knowl.-Based Syst. 145: 109-120 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0950705118300108)
+14. Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, Jiajia Chen, Lizhe Wang, Wanqing Li: *Robust unsupervised feature selection via dual self-representation and manifold regularization*. <font color="green">Knowl.-Based Syst.</font> 145: 109-120 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0950705118300108)
 
-15. Chang Tang, Jiajia Chen, **Xinwang Liu**, Miaomiao Li, Pichao Wang, Minhui Wang, Peng Lu: Consensus learning guided multi-view unsupervised feature selection. Knowl.-Based Syst. 160: 49-60 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S095070511830337X)
+15. Chang Tang, Jiajia Chen, **Xinwang Liu**, Miaomiao Li, Pichao Wang, Minhui Wang, Peng Lu: *Consensus learning guided multi-view unsupervised feature selection*. <font color="green">Knowl.-Based Syst.</font> 160: 49-60 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S095070511830337X)
 
-16. Jingming Xue, Qiang Liu, Miaomiao Li, **Xinwang Liu**, Yongkai Ye, Siqi Wang, Jianping Yin: Incremental multiple kernel extreme learning machine and its application in Robo-advisors. Soft Comput. 22(11): 3507-3517 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://link.springer.com/article/10.1007/s00500-018-3031-2)
+16. Jingming Xue, Qiang Liu, Miaomiao Li, **Xinwang Liu**, Yongkai Ye, Siqi Wang, Jianping Yin: *Incremental multiple kernel extreme learning machine and its application in Robo-advisors*. <font color="green">Soft Comput.</font> 22(11): 3507-3517 (2018). (CCF Rank C) [[PDF]](https://sci-hub.tw/https://link.springer.com/article/10.1007/s00500-018-3031-2)
 
-17. Wentao Zhao, Qian Li, Chengzhang Zhu, Jianglong Song, **Xinwang Liu**, Jianping Yin: Model-aware categorical data embedding: a data-driven approach. Soft Comput. 22(11): 3603-3619 (2018). (CCF Rank C)[[PDF]](https://sci-hub.tw/https://link.springer.com/article/10.1007/s00500-018-3170-5)
+17. Wentao Zhao, Qian Li, Chengzhang Zhu, Jianglong Song, **Xinwang Liu**, Jianping Yin: *Model-aware categorical data embedding: a data-driven approach*. <font color="green">Soft Comput.</font> 22(11): 3603-3619 (2018). (CCF Rank C)[[PDF]](https://sci-hub.tw/https://link.springer.com/article/10.1007/s00500-018-3170-5)
 
 ### 2017
 

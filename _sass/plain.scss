@@ -204,11 +204,11 @@ main {
 .posts,
 .post-container {
   @media screen and (max-width: $smallMobileW) {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
   }
   @media screen and (max-width: $mobileW) {
-    padding: 0 !important;
+    padding: 0;
     margin-top: 0;
   }
 }

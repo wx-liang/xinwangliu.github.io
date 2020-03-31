@@ -203,8 +203,6 @@ main {
 }
 .posts,
 .post-container {
-  list-style-type: none;
-  margin: 45px 0px;
   @media screen and (max-width: $smallMobileW) {
     margin-left: 20px;
     margin-right: 20px;
@@ -215,7 +213,7 @@ main {
   }
 }
 .post-container {
-  padding-left: 30px;
+  margin: 30px 0px;
 }
 .post {
   font-family: "Merriweather", sans-serif;

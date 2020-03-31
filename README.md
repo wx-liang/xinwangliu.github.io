@@ -13,7 +13,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 ## News:
 . [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
-. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by IEEE Transactions on Multimedia (TMM).
+. [March 17, 2020] "<b>B$R^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by IEEE Transactions on Multimedia (TMM).
 
 . [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 

@@ -18,7 +18,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
   line-height: 1.2em;
-  margin: 45px 30px;
+  margin: 45px 45px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -66,7 +66,7 @@ main {
   }
 
   .content {
-    margin: 45px 40px;
+    margin: 0px 45px;
     @media screen and (min-width: $mobileW + 1) {
       max-width: calc(100% - #{$leftWidth});
       margin-left: 8cm;

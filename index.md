@@ -3,11 +3,11 @@ layout: page
 ---
 # News
 
-1. [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
+[March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 
-2. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
+[March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
 
-3. [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
+[February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
 
 # Brief Bio：
 
@@ -21,37 +21,39 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Selected Publications:
 
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
+
 1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
 
 2. **Xinwang Liu**, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "*Absent Multiple Kernel Learning Algorithms*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>, 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf)[[Code]](https://github.com/xinwangliu/absentkernel)
 
 3. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: "*Multiple kernel k-means with incomplete kernels*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font> 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIK-means.pdf)
 
-4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "Late Fusion Incomplete Multi-view Clustering". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font> 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
+4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "*Late Fusion Incomplete Multi-view Clustering*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font> 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
 
 # All Publications:
 
 ## 2020
 
-1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: Efficient and Effective Incomplete Multi-view Clustering. **IEEE Transactions on Pattern Analysis and Machine Intelligence**. (Accepted Feb 14th, 2020) (CCF Rank A) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/)
+1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: *Efficient and Effective Incomplete Multi-view Clustering*. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence</font>. (Accepted Feb 14th, 2020) (CCF Rank A) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/)
 
-2. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: Deep Learning for Generic Object Detection: A Survey. **International Journal of Computer Vision** 128(2): 261-318 (2020)(CCF Rank A) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
+2. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: *Deep Learning for Generic Object Detection: A Survey*. <font color="green">International Journal of Computer Vision</font> 128(2): 261-318 (2020)(CCF Rank A) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
 
-3. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network. **IEEE Transactions on Multimedia**. (Accepted March 16th, 2020) (CCF Rank B)
+3. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 16th, 2020) (CCF Rank B)
 
-4. Peng Zhou, Liang Du, **Xinwang Liu**, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: Self-paced Clustering Ensemble. **IEEE Transactions on Neural Networks and Learning Systems**. (Accepted March 29th, 2020)(CCF Rank B)
+4. Peng Zhou, Liang Du, **Xinwang Liu**, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: *Self-paced Clustering Ensemble*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font>. (Accepted March 29th, 2020)(CCF Rank B)
  
-5. Sihang Zhou, En Zhu, **Xinwang Liu**, Tianming Zheng, Qiang Liu, Jingyuan Xia, Jianping Yin: Subspace segmentation-based robust multiple kernel clustering. **Information Fusion** 53: 145-154 (2020) (CCF Rank B)
+5. Sihang Zhou, En Zhu, **Xinwang Liu**, Tianming Zheng, Qiang Liu, Jingyuan Xia, Jianping Yin: *Subspace segmentation-based robust multiple kernel clustering*. <font color="green">Information Fusion</font> 53: 145-154 (2020) (CCF Rank B)
 
-6. Sihang Zhou, **Xinwang Liu**, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix. **AAAI 2020**. (Accepted Nov. 2019) (CCF Rank A)
+6. Sihang Zhou, **Xinwang Liu**, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: *Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
-7. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: R$^2$MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features. **AAAI 2020**. (Accepted Nov. 2019) (CCF Rank A)
+7. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: *R$^2$MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
-8. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Zhigang Luo, Wen Gao: CGD: Multi-view Clustering via Cross-view Graph Diffusion. **AAAI 2020**. (Accepted Nov. 2019) (CCF Rank A)
+8. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Zhigang Luo, Wen Gao: CGD: *Multi-view Clustering via Cross-view Graph Diffusion*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
-9. Li Cheng, Yijie Wang, **Xinwang Liu** and Bin Li: Outlier Detection Ensemble with Embedded Feature Selection. **AAAI 2020**. (Accepted Nov. 2019) (CCF Rank A)
+9. Li Cheng, Yijie Wang, **Xinwang Liu** and Bin Li: *Outlier Detection Ensemble with Embedded Feature Selection*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
-10. Jinglin Xu, Wenbin Li, **Xinwang Liu**, Dingwen Zhang, Ji Liu, Junwei Han: Embedding Deep Interaction Information for Multi-view Categorization. **AAAI 2020**. (Accepted Nov. 2019) (CCF Rank A)
+10. Jinglin Xu, Wenbin Li, **Xinwang Liu**, Dingwen Zhang, Ji Liu, Junwei Han: *Embedding Deep Interaction Information for Multi-view Categorization*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
 
 ## 2019

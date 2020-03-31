@@ -3,11 +3,11 @@ layout: page
 ---
 # News
 
-. [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
+1. [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 
-. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
+2. [March 17, 2020] "**BR$^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
 
-. [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
+3. [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
 
 # Brief Bio：
 
@@ -21,13 +21,13 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Selected Publications:
 
-1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
+1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
 
-2. **Xinwang Liu**, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "Absent Multiple Kernel Learning Algorithms". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**), 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf)[[Code]](https://github.com/xinwangliu/absentkernel)
+2. **Xinwang Liu**, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "*Absent Multiple Kernel Learning Algorithms*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>, 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf)[[Code]](https://github.com/xinwangliu/absentkernel)
 
-3. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: "Multiple kernel k-means with incomplete kernels". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**) 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIK-means.pdf)
+3. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: "*Multiple kernel k-means with incomplete kernels*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font> 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIK-means.pdf)
 
-4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "Late Fusion Incomplete Multi-view Clustering". IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE T-PAMI**) 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
+4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "Late Fusion Incomplete Multi-view Clustering". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font> 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
 
 # All Publications:
 

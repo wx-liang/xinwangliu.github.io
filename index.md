@@ -5,7 +5,7 @@ layout: page
 
 [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 
-[March 17, 2020] "**B![](http://latex.codecogs.com/gif.latex?\R^2)Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
+[March 17, 2020] "**B![](http://latex.codecogs.com/gif.latex?\$R^2$)Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network**" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
 
 [February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
 
@@ -37,7 +37,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 2. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: *Deep Learning for Generic Object Detection: A Survey*. <font color="green">International Journal of Computer Vision</font> 128(2): 261-318 (2020)(CCF Rank A) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
 
-3. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *B![](http://latex.codecogs.com/gif.latex?\R^2)Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 16th, 2020) (CCF Rank B)
+3. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *B![](http://latex.codecogs.com/gif.latex?$R^2$)Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 16th, 2020) (CCF Rank B)
 
 4. Peng Zhou, Liang Du, **Xinwang Liu**, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: *Self-paced Clustering Ensemble*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font>. (Accepted March 29th, 2020)(CCF Rank B)
  
@@ -45,7 +45,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 6. Sihang Zhou, **Xinwang Liu**, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: *Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
-7. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: *R$^2$MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
+7. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: *![](http://latex.codecogs.com/gif.latex?$R^2$)MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 
 8. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, En Zhu, Zhigang Luo, Wen Gao: *CGD: Multi-view Clustering via Cross-view Graph Diffusion*. <font color="green">AAAI 2020</font>. (Accepted Nov. 2019) (CCF Rank A)
 

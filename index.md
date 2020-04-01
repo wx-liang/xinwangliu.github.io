@@ -21,13 +21,45 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Selected Publications:
 
-1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*Efficient and Effective Incomplete Multi-view Clustering*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
+1. **Xinwang Liu**, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "*<u>Efficient and Effective Incomplete Multi-view Clustering</u>*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/) (Accepted Feb 14th, 2020)
 
 2. **Xinwang Liu**, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "*Absent Multiple Kernel Learning Algorithms*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font>, 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf)[[Code]](https://github.com/xinwangliu/absentkernel)
 
 3. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: "*Multiple kernel k-means with incomplete kernels*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font> 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIK-means.pdf)
 
 4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "*Late Fusion Incomplete Multi-view Clustering*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE T-PAMI</b>)</font> 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
+
+5. **Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: *Global and Local Structure Preservation for Feature Selection*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font> 25(6): 1083-1095 (2014) (CCF Rank B)[PDF]
+
+6. **Xinwang Liu**, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: *An Adaptive Approach to Learning Optimal Neighborhood Kernels*. <font color="green">IEEE Transactions on Cybernetics</font> 43(1): 371-384 (2013) (CCF Rank B)[PDF]
+
+7. **Xinwang Liu**, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: *An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning*. <font color="green">IEEE Transactions on Cybernetics</font> 43(2): 557-569 (2013) (CCF Rank B)[PDF]
+
+8. Xifeng Guo, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Miaomiao Li, Xin Xu, and Jianping Yin: *Adaptive Self-paced Deep Clustering with Data Augmentation*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted April 2019)[PDF]
+
+9. Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, and Lizhe Wang: *Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font> (Accepted April 2019)[PDF]
+
+10. Yawei Zhao, En Zhu, **Xinwang Liu**, Deke Guo, Xinzhong Zhu, and Jianping Yin: *Simultaneous Clustering and Optimization for Evolving Datasets*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted June 2019)[PDF]
+
+11. Yawei Zhao, Kai Xu, **Xinwang Liu**, En Zhu, Xinzhong Zhu, and Jianping Yin: *Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted Aug 2018)[PDF]
+
+12. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: *Deep Learning for Generic Object Detection: A Survey*. <font color="green">International Journal of Computer Vision</font> 128(2): 261-318 (2020)(CCF Rank A) [PDF]
+
+13. Sihang Zhou, **Xinwang Liu**, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: *Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font>. (Accepted May 2019)[PDF]
+
+14. Peng Zhou, Liang Du, **Xinwang Liu**, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: *Self-paced Clustering Ensemble*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font>. (Accepted March 29th, 2020)(CCF Rank B)
+
+15. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *BNet: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 16th, 2020) (CCF Rank B)
+
+16. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang: *Learning Joint Affinity Graph for Multi-view Subspace Clustering*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted Nov. 2018)[PDF]
+
+17. Chang Tang, **Xinwang Liu**, Pichao Wang, Changqing Zhang, Miaomiao Li, and Lizhe Wang: *Adaptive Hypergraph Embedded Semi-supervised Multilabel Image Annotation*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 2019)[PDF]
+
+18. Lei Luo, Chunhua Shen, **Xinwang Liu**, and Chunyuan Zhang: *A Computational Model of the Short-Cut Rule for 2D Shape Decomposition*. <font color="green">IEEE Transactions on Image Processing</font> 24(1): 273-283 (2015) (CCF Rank A)[PDF]
+
+19. Jianfeng Lu, Yun Xin, Zhao Zhang, **Xinwang Liu**, and Kenli Li: *Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing*. <font color="green">IEEE Trans. Information Forensics and Security</font> 13(11): 2801-2815 (2018). (CCF Rank A) [PDF]
+ 
+20. Siqi Wang, Yijie Zeng, **Xinwang Liu**, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: *Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network*. <font color="green">NeurIPS</font> 2019: 5960-5973 (CCF Rank A)
 
 # All Publications:
 
@@ -62,33 +94,33 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 3. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: *Late Fusion Incomplete Multi-view Clustering*. <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence</font>. (Accepted Oct. 2018)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
 
-4. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang: *Learning Joint Affinity Graph for Multi-view Subspace Clustering*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted Nov. 2018)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8587193/)
+4. Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, and Lizhe Wang: *Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font> (Accepted April 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8693535/)
 
-5. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Chang Tang, En Zhu, Jianping Yin, Wen Gao: *Efficient and Effective Incomplete Multi-view Clustering*. <font color="green">AAAI 2019</font>.[[PDF]](https://sci-hub.se/downloads/2019-09-12/2c/liu2019.pdf#view=FitH)
+5. Xifeng Guo, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Miaomiao Li, Xin Xu, and Jianping Yin: *Adaptive Self-paced Deep Clustering with Data Augmentation*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted April 2019)[[PDF]](https://www.researchgate.net/profile/Xifeng_Guo/publication/332490862_Adaptive_Self-paced_Deep_Clustering_with_Data_Augmentation/links/5cbc1d3c4585156cd7a724fa/Adaptive-Self-paced-Deep-Clustering-with-Data-Augmentation.pdf?origin=publication_detail)
 
-6. Chang Tang,**Xinwang Liu**, Xinzhong Zhu, Lizhe Wang: *Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection*. <font color="green">AAAI 2019</font>. [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4443/4321)
+6. Yawei Zhao, En Zhu, **Xinwang Liu**, Deke Guo, Xinzhong Zhu, and Jianping Yin: *Simultaneous Clustering and Optimization for Evolving Datasets*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted June 2019)[[PDF]](https://arxiv.org/pdf/1908.01384.pdf)
 
-7. Siqi Wang, En Zhu, Xiping Hu, **Xinwang Liu**, Qiang Liu, Jianping Yin, Fei Wang: *Robustness Can Be Cheap: A Highly Efficient Approach to Discover Outliers under High Outlier Ratios*. <font color="green">AAAI 2019</font>. [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4468/4346)
+7. Sihang Zhou, En Zhu, **Xinwang Liu**, Tianming Zheng, Qiang Liu, Jingyuan Xia, and Jianping Yin: *Subspace Segmentation-based Robust Multiple Kernel Clustering*. <font color="green">Information Fusion</font>. (Accepted June 2019)[[PDF]](https://sci-hub.tw/10.1016/j.inffus.2019.06.017)
 
-8. Chang Tang, Xinzhong Zhu, **Xinwang Liu**, Lizhe Wang, Albert Zomaya: *DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features*. <font color="green">CVPR 2019</font>. (CCF Rank A)[[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf)
+8. Chang Tang,**Xinwang Liu**, Pichao Wang, Changqing Zhang, Miaomiao Li, and Lizhe Wang: *Adaptive Hypergraph Embedded Semi-supervised Multilabel Image Annotation*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8684404/)
 
-9. Chang Tang,**Xinwang Liu**, Pichao Wang, Changqing Zhang, Miaomiao Li, and Lizhe Wang: *Adaptive Hypergraph Embedded Semi-supervised Multilabel Image Annotation*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted March 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8684404/)
+9. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang: *Learning Joint Affinity Graph for Multi-view Subspace Clustering*. <font color="green">IEEE Transactions on Multimedia</font>. (Accepted Nov. 2018)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8587193/)
 
-10. Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, and Lizhe Wang: *Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font> (Accepted April 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8693535/)
+10. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Chang Tang, En Zhu, Jianping Yin, Wen Gao: *Efficient and Effective Incomplete Multi-view Clustering*. <font color="green">AAAI 2019</font>.[[PDF]](https://sci-hub.se/downloads/2019-09-12/2c/liu2019.pdf#view=FitH)
 
-11. Xifeng Guo, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Miaomiao Li, Xin Xu, and Jianping Yin: *Adaptive Self-paced Deep Clustering with Data Augmentation*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted April 2019)[[PDF]](https://www.researchgate.net/profile/Xifeng_Guo/publication/332490862_Adaptive_Self-paced_Deep_Clustering_with_Data_Augmentation/links/5cbc1d3c4585156cd7a724fa/Adaptive-Self-paced-Deep-Clustering-with-Data-Augmentation.pdf?origin=publication_detail)
+11. Chang Tang,**Xinwang Liu**, Xinzhong Zhu, Lizhe Wang: *Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection*. <font color="green">AAAI 2019</font>. [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4443/4321)
 
-12. Xifeng Guo, **Xinwang Liu**, En Zhu and Jianping Yin: *Affine Equivariant Autoencoder*. <font color="green">IJCAI 2019</font>. (Accepted May 2019)[[PDF]](https://www.ijcai.org/proceedings/2019/0335.pdf)
+12. Siqi Wang, En Zhu, Xiping Hu, **Xinwang Liu**, Qiang Liu, Jianping Yin, Fei Wang: *Robustness Can Be Cheap: A Highly Efficient Approach to Discover Outliers under High Outlier Ratios*. <font color="green">AAAI 2019</font>. [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4468/4346)
 
-13. Siwei Wang, **Xinwang Liu**, Chang Tang, Jiyuan Liu, En Zhu, Jianping Yin, Jiangtao Hu and Jingyuan Xia: *Multi-view Clustering via Late Fusion Alignment Maximization*. <font color="green">IJCAI 2019</font>. (Accepted May 2019)[[PDF]](https://www.ijcai.org/proceedings/2019/0524.pdf)
+13. Chang Tang, Xinzhong Zhu, **Xinwang Liu**, Lizhe Wang, Albert Zomaya: *DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features*. <font color="green">CVPR 2019</font>. (CCF Rank A)[[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf)
 
-14. Wenzhang Zhuge, Chenping Hou, **Xinwang Liu**, Hong Tao and Dongyun Yi: *Simultaneous Representation Learning and Clustering for Incomplete Multi-view Data*. <font color="green">IJCAI 2019</font>.  (Accepted May 2019)[[PDF]](https://www.ijcai.org/proceedings/2019/0623.pdf)
+14. Xifeng Guo, **Xinwang Liu**, En Zhu and Jianping Yin: *Affine Equivariant Autoencoder*. <font color="green">IJCAI 2019</font>. (Accepted May 2019)[[PDF]](https://www.ijcai.org/proceedings/2019/0335.pdf)
 
-15. Sihang Zhou, **Xinwang Liu**, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: *Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font>. (Accepted May 2019)[[PDF]](https://sz.btfs.mail.ftn.qq.com/ftn_handler/ce01fa6c08d89281abb917adb4860a0062535ccb043ad0e21424681e656867d000168ff1096f39ce34fc0660fc45ba8c2ebecdc30bad5af9f350a6b699058421?compressed=0&dtype=1&fname=Multiple%20Kernel%20Clustering%20with%20Neighbor-Kernel%20Subspace%20Segmentation.pdf)
+15. Siwei Wang, **Xinwang Liu**, Chang Tang, Jiyuan Liu, En Zhu, Jianping Yin, Jiangtao Hu and Jingyuan Xia: *Multi-view Clustering via Late Fusion Alignment Maximization*. <font color="green">IJCAI 2019</font>. (Accepted May 2019)[[PDF]](https://www.ijcai.org/proceedings/2019/0524.pdf)
 
-16. Sihang Zhou, En Zhu, **Xinwang Liu**, Tianming Zheng, Qiang Liu, Jingyuan Xia, and Jianping Yin: *Subspace Segmentation-based Robust Multiple Kernel Clustering*. <font color="green">Information Fusion</font>. (Accepted June 2019)[[PDF]](https://sci-hub.tw/10.1016/j.inffus.2019.06.017)
+16. Wenzhang Zhuge, Chenping Hou, **Xinwang Liu**, Hong Tao and Dongyun Yi: *Simultaneous Representation Learning and Clustering for Incomplete Multi-view Data*. <font color="green">IJCAI 2019</font>.  (Accepted May 2019)[[PDF]](https://www.ijcai.org/proceedings/2019/0623.pdf)
 
-17. Yawei Zhao, En Zhu, **Xinwang Liu**, Deke Guo, Xinzhong Zhu, and Jianping Yin: *Simultaneous Clustering and Optimization for Evolving Datasets*. <font color="green">IEEE Transactions on Knowledge and Data Engineering</font>. (Accepted June 2019)[[PDF]](https://arxiv.org/pdf/1908.01384.pdf)
+17. Sihang Zhou, **Xinwang Liu**, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: *Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems</font>. (Accepted May 2019)[[PDF]](https://sz.btfs.mail.ftn.qq.com/ftn_handler/ce01fa6c08d89281abb917adb4860a0062535ccb043ad0e21424681e656867d000168ff1096f39ce34fc0660fc45ba8c2ebecdc30bad5af9f350a6b699058421?compressed=0&dtype=1&fname=Multiple%20Kernel%20Clustering%20with%20Neighbor-Kernel%20Subspace%20Segmentation.pdf)
 
 18. Chang Tang, Meiru Bian, **Xinwang Liu**, MiaomiaoLi, Hua Zhou, Pichao Wang, and Hailin Yin: *Unsupervised feature selection via latent representation learning and manifold regularization*. <font color="green">Neural Networks</font> 117: 163-178 (2019) (CCF Rank B)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0893608019301212)
 
@@ -156,21 +188,19 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 2. **Xinwang Liu**, Yong Dou, Jianping Yin, Lei Wang, En Zhu: *Multiple Kernel k-means Clustering with Matrix-induced Regularization*. <font color="green">Proceedings of the Thirtieth AAAI Conference on Artiﬁcial Intelligence</font>: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819)
 
-3. Yang Zhao, Yong Dou, **Xinwang Liu**, Teng Li: *ELM based multiple kernel k-means with diversity-induced regularization*. <font color="green">International Joint Conference on Neural Networks</font>: (2699-2705), July 24-29, 2016, Vancouver, BC, Canada.(CCF Rank C) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7727538/)
+3. Peidai Xie, **Xinwang Liu**, Jianping Yin, Yongjun Wang: *Absent extreme learning machine algorithm with application to packed executable identification*. <font color="green">Neural Computing and Application</font> 27(1): 93-100 (2016). (CCF Rank C)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.6568&rep=rep1&type=pdf)
 
-4. Peidai Xie, **Xinwang Liu**, Jianping Yin, Yongjun Wang: *Absent extreme learning machine algorithm with application to packed executable identification*. <font color="green">Neural Computing and Application</font> 27(1): 93-100 (2016). (CCF Rank C)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.6568&rep=rep1&type=pdf)
+4. Qiang Liu, Sihang Zhou, Chengzhang Zhu, **Xinwang Liu**, Jianping Yin: *MI-ELM: Highly Efficient Multi-Instance Learning Based on Hierarchical Extreme Learning Machine*, <font color="green">Neurocomputing</font> 173: 1044-1053 (2016) (CCF Rank C).[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215012333)
 
-5. Qiang Liu, Sihang Zhou, Chengzhang Zhu, **Xinwang Liu**, Jianping Yin: *MI-ELM: Highly Efficient Multi-Instance Learning Based on Hierarchical Extreme Learning Machine*, <font color="green">Neurocomputing</font> 173: 1044-1053 (2016) (CCF Rank C).[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215012333)
+5. Yueqing Wang, Yong Dou, **Xinwang Liu**, Yuanwu Lei: *PR-ELM: Parallel regularized extreme learning machine based on cluster*. <font color="green">Neurocomputing</font> 173: 1073-1081 (2016) (CCF Rank C).[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215012461)
 
-6. Yueqing Wang, Yong Dou, **Xinwang Liu**, Yuanwu Lei: *PR-ELM: Parallel regularized extreme learning machine based on cluster*. <font color="green">Neurocomputing</font> 173: 1073-1081 (2016) (CCF Rank C).[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215012461)
+6. Sihang Zhou, **Xinwang Liu**, Qiang Liu, Siqi Wang, Chengzhang Zhu, Jianping Yin: *Random Fourier Extreme Learning Machine with l21-norm Regularization*. <font color="green">Neurocomputing</font> 174: 143-153 (2016) (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215011455)
 
-7. Sihang Zhou, **Xinwang Liu**, Qiang Liu, Siqi Wang, Chengzhang Zhu, Jianping Yin: *Random Fourier Extreme Learning Machine with l21-norm Regularization*. <font color="green">Neurocomputing</font> 174: 143-153 (2016) (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231215011455)
+7. Qiang Wang, Yong Dou, **Xinwang Liu**, Qi Lv, Shijie Li: *Multi-view clustering with extreme learning machine*. <font color="green">Neurocomputing</font> 214: 483-494 (2016) (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231216306737)
 
-8. Qiang Wang, Yong Dou, **Xinwang Liu**, Qi Lv, Shijie Li: *Multi-view clustering with extreme learning machine*. <font color="green">Neurocomputing</font> 214: 483-494 (2016) (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231216306737)
+8. Yang Zhao, Yong Dou, **Xinwang Liu**, Teng Li: *A novel multi-view clustering method via low-rank and matrix-induced regularization*. <font color="green">Neurocomputing</font> 216: 342-350 (2016) (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231216308359)
 
-9. Yang Zhao, Yong Dou, **Xinwang Liu**, Teng Li: *A novel multi-view clustering method via low-rank and matrix-induced regularization*. <font color="green">Neurocomputing</font> 216: 342-350 (2016) (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231216308359)
-
-10. Teng Li, Yong Dou, **Xinwang Liu**: *Joint diversity and graph regularization for multiple kernel k-means clustering via latent variables*. <font color="green">Neurocomputing</font> 218: 154-163 (2016). (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231216309560)
+9. Teng Li, Yong Dou, **Xinwang Liu**: *Joint diversity and graph regularization for multiple kernel k-means clustering via latent variables*. <font color="green">Neurocomputing</font> 218: 154-163 (2016). (CCF Rank C)[[PDF]](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0925231216309560)
 
 ### 2015
 
@@ -188,23 +218,15 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 2. **Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin: *Sample-Adaptive Multiple Kernel Learning*. <font color="green">Proceedings of the Twenty-Eighth AAAI Conference on Artiﬁcial Intelligence</font>: (1975-1981), July 27-31, 2014, Qu´ebec City, Qu´ebec, Canada (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8332/8839)
 
-3. Shangrong Huang, Jian Zhang, **Xinwang Liu**, Lei Wang: *A Method of Discriminative Information Preservation and In-Dimension Distance Minimization Method for Feature Selection*. <font color="green">22nd International Conference on Pattern Recognition</font>: (16151620), August 24-28, 2014, Stockholm, Sweden. (CCF Rank C) [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6976996/)
-
-4. Dongyan Guo, Jian Zhang, **Xinwang Liu**, Ying Cui, Chunxia Zhao: *Multiple Kernel Learning Based Multi-View Spectral Clustering*. <font color="green">22nd International Conference on Pattern Recognition</font>: (3774-3779), August 24-28, 2014, Stockholm, Sweden. (CCF Rank C)[[PDF]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2014/data/5209d774.pdf)
-
-5. Sihang Zhou, **Xinwang Liu**, Chengzhang Zhu, Qiang Liu, Jianping Yin: *Spectral clustering-based local and global structure preservation for feature selection*. <font color="green">International Joint Conference on Neural Networks</font>: (550-557), July 6-11, 2014, Beijing, China. (CCF Rank C)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6889641/)
-
-6. Chengzhang Zhu, **Xinwang Liu**, Sihang Zhou, Qiang Liu, Jianping Yin: *A binary feature selection framework in kernel spaces*. <font color="green">International Joint Conference on Neural Networks</font>: (4190-4197), July 6-11, 2014, Beijing, China. (CCF Rank C)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/6889639/)
-
 ### 2013
 
 1. **Xinwang Liu**, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: *An Adaptive Approach to Learning Optimal Neighborhood Kernels*. <font color="green">IEEE Transactions on Cybernetics</font> 43(1): 371-384 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.2961&rep=rep1&type=pdf)
 
 2. **Xinwang Liu**, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: *An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning*. <font color="green">IEEE Transactions on Cybernetics</font> 43(2): 557-569 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf)
 
-3. Yubin Zhan, Jianping Yin, **Xinwang Liu**: *Nonlinear discriminant clustering based on spectral regularization*. <font color="green">Neural Computing and Applications</font> 22(7-8): 1599-1608 (2013) (CCF Rank C)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.8856&rep=rep1&type=pdf)
+3. Bo Liu, Bin Fang, **Xinwang Liu**, Jie Chen, Zhenghong Huang, Xiping He: *Large Margin Subspace Learning for feature selection*. <font color="green">Pattern Recognition</font> 46(10): 2798-2806 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.261&rep=rep1&type=pdf)
 
-4. Bo Liu, Bin Fang, **Xinwang Liu**, Jie Chen, Zhenghong Huang, Xiping He: *Large Margin Subspace Learning for feature selection*. <font color="green">Pattern Recognition</font> 46(10): 2798-2806 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.719.261&rep=rep1&type=pdf)
+4. Yubin Zhan, Jianping Yin, **Xinwang Liu**: *Nonlinear discriminant clustering based on spectral regularization*. <font color="green">Neural Computing and Applications</font> 22(7-8): 1599-1608 (2013) (CCF Rank C)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.8856&rep=rep1&type=pdf)
 
 ### 2012
 
@@ -212,6 +234,6 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 ### 2011
 
-1. Yubin Zhan, Jianping Yin, **Xinwang Liu**: *A Convergent Solution to Matrix Bidirectional Projection Based Feature Extraction with Application to Face Recognition*. <font color="green">International Journal of Computational Intelligence Systems</font> 4(5): 863-873 (2011) [[PDF]](https://download.atlantis-press.com/article/2375.pdf)
+1. Lingqiao Liu, Lei Wang, **Xinwang Liu**: *In defense of soft-assignment coding*. <font color="green">IEEE International Conference on Computer Vision</font>: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf)
 
-2. Lingqiao Liu, Lei Wang, **Xinwang Liu**: *In defense of soft-assignment coding*. <font color="green">IEEE International Conference on Computer Vision</font>: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf)
+2. Yubin Zhan, Jianping Yin, **Xinwang Liu**: *A Convergent Solution to Matrix Bidirectional Projection Based Feature Extraction with Application to Face Recognition*. <font color="green">International Journal of Computational Intelligence Systems</font> 4(5): 863-873 (2011) [[PDF]](https://download.atlantis-press.com/article/2375.pdf)

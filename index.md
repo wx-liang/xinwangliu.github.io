@@ -118,3 +118,11 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 28. Lingqiao Liu, Lei Wang, **Xinwang Liu**: *<u>In defense of soft-assignment coding</u>*. <font color="green">ICCV 2011</font>: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A) [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf)
 
 29. Melih Engin, Lei Wang, Luping Zhou, **Xinwang Liu**: *<u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u>*. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) [[PDF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf)
+
+# Group Members:
+
+1. [Sihang Zhou](https://github.com/SihangZhou)
+2. [Yawei Zhao]
+3. [Xifeng Guo](http://github.com/XifengGuo)
+4. [Siwei Wang](https://github.com/wangsiwei2010)
+5. [Jiyuan Liu](https://github.com/liujiyuan13)

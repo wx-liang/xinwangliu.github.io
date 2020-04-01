@@ -122,7 +122,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Group Members:
 
 1. [Sihang Zhou](https://github.com/SihangZhou)
-2. [Yawei Zhao]
+2. [Yawei Zhao](https://github.com/YaweiZhao)
 3. [Xifeng Guo](http://github.com/XifengGuo)
 4. [Siwei Wang](https://github.com/wangsiwei2010)
 5. [Jiyuan Liu](https://github.com/liujiyuan13)

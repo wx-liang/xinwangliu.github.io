@@ -16,7 +16,7 @@ sass:
 plainwhite:
   name: Xinwang Liu
   tagline: Professor
-  name: xinwangliu@nudt.edu.cn 
+  email: xinwangliu@nudt.edu.cn 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 

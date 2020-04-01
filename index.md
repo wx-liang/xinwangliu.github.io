@@ -3,11 +3,11 @@ layout: page
 ---
 # News
 
-[March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
+[<font color="red">March 29, 2020</font>] "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 
-[March 17, 2020] "<b>B</b>*![](http://latex.codecogs.com/gif.latex?$R^2$)*<b>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
+[<font color="red">March 17, 2020</font>] "<b>B</b>*![](http://latex.codecogs.com/gif.latex?$R^2$)*<b>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
 
-[February 13, 2020] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
+[<font color="red">February 13, 2020</font>] "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
 
 # Brief Bio：
 
@@ -29,35 +29,35 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "*<u>Late Fusion Incomplete Multi-view Clustering</u>*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
 
-5. **Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: *<u>Global and Local Structure Preservation for Feature Selection</u>*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems(<b>TNNLS</b>)</font> 25(6): 1083-1095 (2014) (CCF Rank B)[[PDF]](https://www.researchgate.net/profile/Xinwang_Liu/publication/257984802_Global_and_Local_Structure_Preservation_for_Feature_Selection/links/0deec527abd45e2d46000000.pdf)
+5. **Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: *<u>Global and Local Structure Preservation for Feature Selection</u>*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font> 25(6): 1083-1095 (2014) (CCF Rank B)[[PDF]](https://www.researchgate.net/profile/Xinwang_Liu/publication/257984802_Global_and_Local_Structure_Preservation_for_Feature_Selection/links/0deec527abd45e2d46000000.pdf)
 
 6. **Xinwang Liu**, Jianping Yin, Lei Wang, Lingqiao Liu, Jun Liu, Chenping Hou, Jian Zhang: *<u>An Adaptive Approach to Learning Optimal Neighborhood Kernels</u>*. <font color="green">IEEE Transactions on Cybernetics</font> 43(1): 371-384 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.710.2961&rep=rep1&type=pdf)
 
 7. **Xinwang Liu**, Lei Wang, Jianping Yin, En Zhu, Jian Zhang: *<u>An Efficient Approach to Integrating Radius Information into Multiple Kernel Learning</u>*. <font color="green">IEEE Transactions on Cybernetics</font> 43(2): 557-569 (2013) (CCF Rank B)[[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.448&rep=rep1&type=pdf)
 
-8. Xifeng Guo, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Miaomiao Li, Xin Xu, and Jianping Yin: *<u>Adaptive Self-paced Deep Clustering with Data Augmentation</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>)</font>. (Accepted April 2019) [[PDF]](https://www.researchgate.net/profile/Xifeng_Guo/publication/332490862_Adaptive_Self-paced_Deep_Clustering_with_Data_Augmentation/links/5cbc1d3c4585156cd7a724fa/Adaptive-Self-paced-Deep-Clustering-with-Data-Augmentation.pdf?origin=publication_detail)
+8. Xifeng Guo, **Xinwang Liu**, En Zhu, Xinzhong Zhu, Miaomiao Li, Xin Xu, and Jianping Yin: *<u>Adaptive Self-paced Deep Clustering with Data Augmentation</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted April 2019) [[PDF]](https://www.researchgate.net/profile/Xifeng_Guo/publication/332490862_Adaptive_Self-paced_Deep_Clustering_with_Data_Augmentation/links/5cbc1d3c4585156cd7a724fa/Adaptive-Self-paced-Deep-Clustering-with-Data-Augmentation.pdf?origin=publication_detail)
 
-9. Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, and Lizhe Wang: *<u>Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>)</font> (Accepted April 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8693535/)
+9. Chang Tang, **Xinwang Liu**, Miaomiao Li, Pichao Wang, and Lizhe Wang: *<u>Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font> (Accepted April 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8693535/)
 
-10. Yawei Zhao, En Zhu, **Xinwang Liu**, Deke Guo, Xinzhong Zhu, and Jianping Yin: *<u>Simultaneous Clustering and Optimization for Evolving Datasets</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>)</font>. (Accepted June 2019) [[PDF]](https://arxiv.org/pdf/1908.01384.pdf)
+10. Yawei Zhao, En Zhu, **Xinwang Liu**, Deke Guo, Xinzhong Zhu, and Jianping Yin: *<u>Simultaneous Clustering and Optimization for Evolving Datasets</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted June 2019) [[PDF]](https://arxiv.org/pdf/1908.01384.pdf)
 
-11. Yawei Zhao, Kai Xu, **Xinwang Liu**, En Zhu, Xinzhong Zhu, and Jianping Yin: *<u>Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering(<b>TKDE</b>)</font>. (Accepted Aug 2018) [[PDF]](https://arxiv.org/pdf/1808.06556.pdf)
+11. Yawei Zhao, Kai Xu, **Xinwang Liu**, En Zhu, Xinzhong Zhu, and Jianping Yin: *<u>Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets</u>*. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Aug 2018) [[PDF]](https://arxiv.org/pdf/1808.06556.pdf)
 
-12. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: *<u>Deep Learning for Generic Object Detection: A Survey</u>*. <font color="green">International Journal of Computer Vision(<b>IJCV</b>)</font> 128(2): 261-318 (2020)(CCF Rank A) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
+12. Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, **Xinwang Liu**, and Matti Pietikäinen: *<u>Deep Learning for Generic Object Detection: A Survey</u>*. <font color="green">International Journal of Computer Vision (<b>IJCV</b>)</font> 128(2): 261-318 (2020)(CCF Rank A) [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
 
-13. Sihang Zhou, **Xinwang Liu**, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: *<u>Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation</u>*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems(<b>TNNLS</b>)</font>. (Accepted May 2019)[[PDF]](https://sz.btfs.mail.ftn.qq.com/ftn_handler/ce01fa6c08d89281abb917adb4860a0062535ccb043ad0e21424681e656867d000168ff1096f39ce34fc0660fc45ba8c2ebecdc30bad5af9f350a6b699058421?compressed=0&dtype=1&fname=Multiple%20Kernel%20Clustering%20with%20Neighbor-Kernel%20Subspace%20Segmentation.pdf)
+13. Sihang Zhou, **Xinwang Liu**, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: *<u>Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation</u>*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted May 2019)[[PDF]](https://sz.btfs.mail.ftn.qq.com/ftn_handler/ce01fa6c08d89281abb917adb4860a0062535ccb043ad0e21424681e656867d000168ff1096f39ce34fc0660fc45ba8c2ebecdc30bad5af9f350a6b699058421?compressed=0&dtype=1&fname=Multiple%20Kernel%20Clustering%20with%20Neighbor-Kernel%20Subspace%20Segmentation.pdf)
 
-14. Peng Zhou, Liang Du, **Xinwang Liu**, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: *<u>Self-paced Clustering Ensemble</u>*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems(<b>TNNLS</b>)</font>. (Accepted March 29th, 2020)(CCF Rank B)
+14. Peng Zhou, Liang Du, **Xinwang Liu**, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: *<u>Self-paced Clustering Ensemble</u>*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted March 29th, 2020)(CCF Rank B)
 
-15. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *<u>BNet: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</u>*. <font color="green">IEEE Transactions on Multimedia(<b>TMM</b>)</font>. (Accepted March 16th, 2020) (CCF Rank B)
+15. Chang Tang, **Xinwang Liu**, An Shan and Pichao Wang: *<u>BNet: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</u>*. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted March 16th, 2020) (CCF Rank B)
 
-16. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang: *<u>Learning Joint Affinity Graph for Multi-view Subspace Clustering</u>*. <font color="green">IEEE Transactions on Multimedia(<b>TMM</b>)</font>. (Accepted Nov. 2018)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8587193/)
+16. Chang Tang, **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang: *<u>Learning Joint Affinity Graph for Multi-view Subspace Clustering</u>*. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted Nov. 2018)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8587193/)
 
-17. Chang Tang, **Xinwang Liu**, Pichao Wang, Changqing Zhang, Miaomiao Li, and Lizhe Wang: *<u>Adaptive Hypergraph Embedded Semi-supervised Multilabel Image Annotation</u>*. <font color="green">IEEE Transactions on Multimedia(<b>TMM</b>)</font>. (Accepted March 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8684404/)
+17. Chang Tang, **Xinwang Liu**, Pichao Wang, Changqing Zhang, Miaomiao Li, and Lizhe Wang: *<u>Adaptive Hypergraph Embedded Semi-supervised Multilabel Image Annotation</u>*. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted March 2019)[[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8684404/)
 
-18. Lei Luo, Chunhua Shen, **Xinwang Liu**, and Chunyuan Zhang: *<u>A Computational Model of the Short-Cut Rule for 2D Shape Decomposition</u>*. <font color="green">IEEE Transactions on Image Processing(<b>TIP</b>)</font> 24(1): 273-283 (2015) (CCF Rank A)[[PDF]](https://arxiv.org/pdf/1409.2104.pdf)
+18. Lei Luo, Chunhua Shen, **Xinwang Liu**, and Chunyuan Zhang: *<u>A Computational Model of the Short-Cut Rule for 2D Shape Decomposition</u>*. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font> 24(1): 273-283 (2015) (CCF Rank A)[[PDF]](https://arxiv.org/pdf/1409.2104.pdf)
 
-19. Jianfeng Lu, Yun Xin, Zhao Zhang, **Xinwang Liu**, and Kenli Li: *<u>Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing</u>*. <font color="green">IEEE Transactions Information Forensics and Security(<b>TIFS</b>)</font> 13(11): 2801-2815 (2018). (CCF Rank A)[[PDF]](https://arxiv.org/pdf/1712.09848.pdf)
+19. Jianfeng Lu, Yun Xin, Zhao Zhang, **Xinwang Liu**, and Kenli Li: *<u>Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing</u>*. <font color="green">IEEE Transactions Information Forensics and Security (<b>TIFS</b>)</font> 13(11): 2801-2815 (2018). (CCF Rank A)[[PDF]](https://arxiv.org/pdf/1712.09848.pdf)
 
 # Selected Conference Papers:
 

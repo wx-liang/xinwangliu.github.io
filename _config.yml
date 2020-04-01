@@ -15,7 +15,8 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Xinwang Liu
-  tagline: Professor. Supervisor 
+  tagline: Professor
+  name: xinwangliu@nudt.edu.cn 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 

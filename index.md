@@ -122,7 +122,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Group Members:
 
-<table width="90%" border="0" align="center" cellspacing="40">
+<table width="90%" border="0" align="center" cellspacing="20" style="margin-top:10px">
         <tbody><tr valign="top" align="center">
           <td width="20%">
             <div> <img width="120" src="./groupmember/sihang.PNG"></div>

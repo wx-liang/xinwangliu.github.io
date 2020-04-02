@@ -125,28 +125,32 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <table width="90%" border="0" align="center" cellspacing="20">
         <tbody><tr valign="top" align="center">
           <td width="20%">
-            <div> <img width="150" src="./groupmember/sihang.PNG"></div>
-            <div> [Sihang Zhou](https://github.com/SihangZhou) </div>
+            <div> <img width="120" src="./groupmember/sihang.PNG"></div>
+            <div> Sihang Zhou </div>
             <div> PhD </div>
+            <div> https://github.com/SihangZhou </div>
           </td>
           <td width="20%">
-            <div> <img width="150" src="./groupmember/yawei.PNG"></div>
-            <div> [Yawei Zhao](https://github.com/YaweiZhao) </div>
+            <div> <img width="120" src="./groupmember/yawei.PNG"></div>
+            <div> Yawei Zhao </div>
             <div> PhD student </div>
+            <div> https://github.com/YaweiZhao </div>
           </td>
           <td width="20%">
-            <div> <img width="150" src="./groupmember/xifeng.PNG"></div>
-            <div> [Xifeng Guo](http://github.com/XifengGuo) </div>
+            <div> <img width="120" src="./groupmember/xifeng.PNG"></div>
+            <div> Xifeng Guo </div>
             <div> PhD student </div>
+            <div> http://github.com/XifengGuo </div>
           </td>
           <td width="20%">
-            <div> <img width="150" src="./groupmember/siwei.PNG"></div>
-            <div> [Siwei Wang](https://github.com/wangsiwei2010) </div>
+            <div> <img width="120" src="./groupmember/siwei.PNG"></div>
+            <div> Siwei Wang </div>
             <div> PhD student </div>
+            <div> https://github.com/wangsiwei2010 </div>
           </td>
           <td width="20%">
-            <div> <img width="150" src="./groupmember/jiyuan.PNG"></div>
-            <div> [Jiyuan Liu](https://github.com/liujiyuan13) </div>
+            <div> <img width="120" src="./groupmember/jiyuan.PNG"></div>
+            <div> Jiyuan Liu </div>
             <div> PhD student </div>
+            <div> https://github.com/liujiyuan13 </div>
           </td>
-      </tbody></table>

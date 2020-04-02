@@ -121,10 +121,36 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Group Members:
 
-<img src="./groupmember/sihang.PNG" height="120" width="80"  alt="SihangZhou">   <img src="./groupmember/yawei.PNG" height="120" width="80">   <img src="./groupmember/xifeng.PNG" height="120" width="80">   <img src="./groupmember/siwei.PNG" height="120" width="80">   <img src="./groupmember/jiyuan.PNG" height="120" width="80">
+<table width="90%" border="0" align="center" cellspacing="20">
+        <tbody><tr valign="top" align="center">
+          <td width="20%">
+            <div> <img width="150" src="./groupmember/sihang.PNG"></div>
+            <div>[Sihang Zhou](https://github.com/SihangZhou)</div>
+            <div> PhD </div>
+          </td>
 
-1. [Sihang Zhou](https://github.com/SihangZhou)
-2. [Yawei Zhao](https://github.com/YaweiZhao)
-3. [Xifeng Guo](http://github.com/XifengGuo)
-4. [Siwei Wang](https://github.com/wangsiwei2010)
-5. [Jiyuan Liu](https://github.com/liujiyuan13)
+          <td width="20%">
+            <div> <img width="150" src="./groupmember/yawei.PNG"></div>
+            <div>[Yawei Zhao](https://github.com/YaweiZhao)</div>
+            <div> PhD student </div>
+          </td>
+
+          <td width="20%">
+            <div> <img width="150" src="./groupmember/xifeng.PNG"></div>
+            <div>[Xifeng Guo](http://github.com/XifengGuo)</div>
+            <div> PhD student </div>
+          </td>
+
+          <td width="20%">
+            <div> <img width="150" src="./groupmember/siwei.PNG"></div>
+            <div>[Siwei Wang](https://github.com/wangsiwei2010)</div>
+            <div> Visiting PhD student </div>
+          </td>
+
+          <td width="20%">
+            <div> <img width="150" src="./groupmember/jiyuan.PNG"></div>
+            <div>[Jiyuan Liu](https://github.com/liujiyuan13)</div>
+            <div> Visiting PhD student </div>
+          </td>
+
+      </tbody></table>

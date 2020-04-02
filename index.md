@@ -122,7 +122,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Group Members:
 
-<table width="90%" border="0" align="center" cellspacing="20">
+<table width="90%" border="0" align="center" cellspacing="40">
         <tbody><tr valign="top" align="center">
           <td width="20%">
             <div> <img width="120" src="./groupmember/sihang.PNG"></div>
@@ -131,7 +131,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
           </td>
           <td width="20%">
             <div> <img width="120" src="./groupmember/yawei.PNG"></div>
-            <div> <a href="https://github.com/YaweiXhao">Yawei Zhao</a></div>
+            <div> <a href="https://github.com/YaweiZhao">Yawei Zhao</a></div>
             <div> PhD student </div>
           </td>
           <td width="20%">

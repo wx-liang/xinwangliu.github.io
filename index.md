@@ -121,6 +121,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Group Members:
 
+![avatar](./groupmember/sihang.PNG) ![avatar](./groupmember/yawei.PNG)
+
 1. [Sihang Zhou](https://github.com/SihangZhou)
 2. [Yawei Zhao](https://github.com/YaweiZhao)
 3. [Xifeng Guo](http://github.com/XifengGuo)

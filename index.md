@@ -121,7 +121,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Group Members:
 
-<img src="./groupmember/sihang.PNG" height="120" width="80">   <img src="./groupmember/yawei.PNG" height="120" width="80">   <img src="./groupmember/xifeng.PNG" height="120" width="80">   <img src="./groupmember/siwei.PNG" height="120" width="80">   <img src="./groupmember/jiyuan.PNG" height="120" width="80">
+<img src="./groupmember/sihang.PNG" height="120" width="80"  alt="SihangZhou">   <img src="./groupmember/yawei.PNG" height="120" width="80">   <img src="./groupmember/xifeng.PNG" height="120" width="80">   <img src="./groupmember/siwei.PNG" height="120" width="80">   <img src="./groupmember/jiyuan.PNG" height="120" width="80">
 
 1. [Sihang Zhou](https://github.com/SihangZhou)
 2. [Yawei Zhao](https://github.com/YaweiZhao)

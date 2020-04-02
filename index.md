@@ -28,7 +28,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 3. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: "*<u>Multiple kernel k-means with incomplete kernels</u>*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 2019 [[PDF]](https://tongliang-liu.github.io/papers/TPAMIK-means.pdf)
 
-4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "*<u>Late Fusion Incomplete Multi-view Clustering</u>*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 2019 [[PDF]](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8519323/)
+4. **Xinwang Liu**, Xinzhong Zhu, Miaomiao Li, Lei Wang, Chang Tang, Jianping Yin, Dinggang Shen, Huaimin Wang and Wen Gao: "*<u>Late Fusion Incomplete Multi-view Clustering</u>*". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 2019 [[PDF]](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC6494716&blobtype=pdf)
 
 5. **Xinwang Liu**, Lei Wang, Jian Zhang, Jianping Yin, Huan Liu: *<u>Global and Local Structure Preservation for Feature Selection</u>*. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font> 25(6): 1083-1095 (2014) (CCF Rank B) [[PDF]](https://www.researchgate.net/profile/Xinwang_Liu/publication/257984802_Global_and_Local_Structure_Preservation_for_Feature_Selection/links/0deec527abd45e2d46000000.pdf)
 

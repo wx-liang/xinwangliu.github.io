@@ -1,5 +1,6 @@
 ---
 layout: page
+<title>Xinwang Liu: Homepage</title>
 ---
 # News
 

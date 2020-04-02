@@ -122,29 +122,29 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Group Members:
 
-<table width="90%" border="0" align="center" cellspacing="20">
+<table width="90%" border="0" align="center" cellspacing="40">
         <tbody><tr valign="top" align="center">
-          <td width="20%" style="padding-right:25px">
+          <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/sihang.PNG"></div>
             <div> <a href="https://github.com/SihangZhou">Sihang Zhou</a> </div>
             <div> PhD </div>
           </td>
-          <td width="20%" style="padding-right:25px">
+          <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/yawei.PNG"></div>
             <div> <a href="https://github.com/YaweiZhao">Yawei Zhao</a></div>
             <div> PhD student </div>
           </td>
-          <td width="20%" style="padding-right:25px">
+          <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/xifeng.PNG"></div>
             <div> <a href="http://github.com/XifengGuo">Xifeng Guo</a> </div>
             <div> PhD student </div>
           </td>
-          <td width="20%" style="padding-right:25px">
+          <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/siwei.PNG"></div>
             <div> <a href="http://github.com/wangsiwei2010">Siwei Wang</a> </div>
             <div> PhD student </div>
           </td>
-          <td width="20%" style="padding-right:25px">
+          <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/jiyuan.PNG"></div>
             <div> <a href="http://github.com/liujiyuan13">Jiyuan Liu</a> </div>
             <div> PhD student </div>

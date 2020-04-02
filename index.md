@@ -121,7 +121,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 # Group Members:
 
-![[Sihang Zhou](https://github.com/SihangZhou)-w50](./groupmember/sihang.PNG) ![[Yawei Zhao](https://github.com/YaweiZhao)-w50](./groupmember/yawei.PNG)
+<img src="./groupmember/sihang.PNG" height="350" width="233">
+<img src="./groupmember/yawei.PNG" height="350" width="233">
 
 1. [Sihang Zhou](https://github.com/SihangZhou)
 2. [Yawei Zhao](https://github.com/YaweiZhao)

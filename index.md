@@ -125,7 +125,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <table width="90%" border="0" align="center" cellspacing="30">
         <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
-            <div> <img width="130" src="./groupmember/tangchang.PNG"></div>
+            <div> <img width="130" src="./groupmember/tangchang.png"></div>
             <div> <a href="http://tangchang.net/">Chang Tang</a> </div>
             <div> Associate Professor </div>
           </td>

@@ -4,6 +4,8 @@ layout: page
 ---
 # News
 
+[<font color="red">April 11, 2020</font>] Promoted to be "**IEEE Senior member**"
+
 [<font color="red">March 29, 2020</font>]  "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 
 [<font color="red">March 17, 2020</font>]  "<b>B</b>*![](http://latex.codecogs.com/gif.latex?$R^2$)*<b>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.

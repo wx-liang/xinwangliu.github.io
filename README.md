@@ -4,13 +4,13 @@
 
 Professor with the school of computer, National University of Defense Technology (NUDT), Changsha, Hunan, China. 
 
-My research interests include kernel learning, multi-view learning, unsupervised representation learning and some related topics. 
-
-Please drop me a message if you also have interests with me by my email: xinwangliu@nudt.edu.cn or 1022xinwang.liu@gmail.com.
+My research interests include kernel learning, multi-view learning, unsupervised representation learning and some related topics. Please drop me a message if you also have interests with me by my email: xinwangliu@nudt.edu.cn or 1022xinwang.liu@gmail.com.
 
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## News:
+. [April 11, 2020] Promoted to be **IEEE senior member**.
+
 . [March 29, 2020] "**Self-paced Clustering Ensemble**" has been accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 . [March 17, 2020] "<b>B$R^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by IEEE Transactions on Multimedia (TMM).

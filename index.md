@@ -3,28 +3,16 @@ layout: page
 <title>Xinwang Liu: Homepage</title>
 ---
 # News
-<ul>
-        
-<li>
-        [<font color="red">April 20, 2020</font>]  "**Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification**" has been accepted by <font color="green">IJCAI 2020</font>.
-</li>
+<ul> 
+<li>[<font color="red">April 20, 2020</font>]  "<b>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</b>" has been accepted by <font color="green">IJCAI 2020</font>.</li>
 
-<li>
-[<font color="red">April 11, 2020</font>] Promoted to be "**IEEE Senior member**".
-</li>
+<li>[<font color="red">April 11, 2020</font>] Promoted to be "<b>IEEE Senior member</b>".</li>
 
-<li>
-[<font color="red">March 29, 2020</font>]  "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
-</li>
+<li>[<font color="red">March 29, 2020</font>]  "<b>Self-paced Clustering Ensemble</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li>
 
-<li>
-[<font color="red">March 17, 2020</font>]  "<b>B</b>*![](http://latex.codecogs.com/gif.latex?$R^2$)*<b>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
-</li>
+<li>[<font color="red">March 17, 2020</font>]  "<b>B$R^2$Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li>
 
-<li>
-[<font color="red">February 13, 2020</font>]  "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
-</li>
-
+<li>[<font color="red">February 13, 2020</font>]  "<b>Efficient and Effective Regularized Incomplete Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li>
 </ul>
 
 # Brief Bio：
@@ -79,7 +67,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <ol>
         
-<li> Siqi Wang, Yijie Zeng, **Xinwang Liu**, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: *<u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u>*. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) [[PDF]](<a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf"></a>)</li>
+<li> Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) [[PDF]](<a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf"></a>)</li>
 
 <li> Sihang Zhou, **Xinwang Liu**, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: *<u>Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</u>*. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) [[PDF]](<a href = "https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouS.4849.pdf"></a>)</li>
 

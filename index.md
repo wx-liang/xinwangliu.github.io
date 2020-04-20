@@ -71,51 +71,51 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <li> Sihang Zhou, <b>Xinwang Liu</b>, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: <i><u>Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) [[PDF]](<a href = "https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouS.4849.pdf"></a>)</li>
 
-<li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: *<u>MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features</u>*. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li>
+<li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: <i><u>MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li>
 
-<li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, En Zhu, Zhigang Luo, Wen Gao: *<u>CGD: Multi-view Clustering via Cross-view Graph Diffusion</u>*. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li>
+<li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, En Zhu, Zhigang Luo, Wen Gao: <i><u>CGD: Multi-view Clustering via Cross-view Graph Diffusion</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li>
 
-<li> Li Cheng, Yijie Wang, <b>Xinwang Liu</b> and Bin Li: *<u>Outlier Detection Ensemble with Embedded Feature Selection</u>*. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) [[PDF]](https://arxiv.org/pdf/2001.05492.pdf) </li>
+<li> Li Cheng, Yijie Wang, <b>Xinwang Liu</b> and Bin Li: <i><u>Outlier Detection Ensemble with Embedded Feature Selection</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) [[PDF]](https://arxiv.org/pdf/2001.05492.pdf) </li>
 
-<li> Jinglin Xu, Wenbin Li, <b>Xinwang Liu</b>, Dingwen Zhang, Ji Liu, Junwei Han: *<u>Embedding Deep Interaction Information for Multi-view Categorization</u>*. <font color="green">AAAI 2020</font>. (CCF Rank A, ccepted Nov. 2019) </li>
+<li> Jinglin Xu, Wenbin Li, <b>Xinwang Liu</b>, Dingwen Zhang, Ji Liu, Junwei Han: <i><u>Embedding Deep Interaction Information for Multi-view Categorization</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, ccepted Nov. 2019) </li>
 
-<li> <b>Xinwang Liu</b>, Xinzhong Zhu, Miaomiao Li, Chang Tang, En Zhu, Jianping Yin, Wen Gao: *<u>Efficient and Effective Incomplete Multi-view Clustering</u>*. <font color="green">AAAI 2019</font>.(CCF Rank A) [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4350/4228) </li>
+<li> <b>Xinwang Liu</b>, Xinzhong Zhu, Miaomiao Li, Chang Tang, En Zhu, Jianping Yin, Wen Gao: <i><u>Efficient and Effective Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4350/4228) </li>
 
-<li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, Lizhe Wang: *<u>Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</u>*. <font color="green">AAAI 2019</font>.(CCF Rank A) [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4443/4321) </li>
+<li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, Lizhe Wang: <i><u>Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4443/4321) </li>
 
-<li> Siqi Wang, En Zhu, Xiping Hu, <b>Xinwang Liu</b>, Qiang Liu, Jianping Yin, Fei Wang: *<u>Robustness Can Be Cheap: A Highly Efficient Approach to Discover Outliers under High Outlier Ratios</u>*. <font color="green">AAAI 2019</font>.(CCF Rank A) [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4468/4346) </li>
+<li> Siqi Wang, En Zhu, Xiping Hu, <b>Xinwang Liu</b>, Qiang Liu, Jianping Yin, Fei Wang: <i><u>Robustness Can Be Cheap: A Highly Efficient Approach to Discover Outliers under High Outlier Ratios</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) [[PDF]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4468/4346) </li>
 
-<li> Chang Tang, Xinzhong Zhu, <b>Xinwang Liu</b>, Lizhe Wang, Albert Zomaya: *<u>DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features</u>*. <font color="green">CVPR 2019</font>. (CCF Rank A) [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf) </li>
+<li> Chang Tang, Xinzhong Zhu, <b>Xinwang Liu</b>, Lizhe Wang, Albert Zomaya: <i><u>DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features</u></i>. <font color="green">CVPR 2019</font>. (CCF Rank A) [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf) </li>
 
-<li> Xifeng Guo, <b>Xinwang Liu</b>, En Zhu and Jianping Yin: *<u>Affine Equivariant Autoencoder</u>*. <font color="green">IJCAI 2019</font>.(CCF Rank A, Accepted May 2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0335.pdf) </li>
+<li> Xifeng Guo, <b>Xinwang Liu</b>, En Zhu and Jianping Yin: <i><u>Affine Equivariant Autoencoder</u></i>. <font color="green">IJCAI 2019</font>.(CCF Rank A, Accepted May 2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0335.pdf) </li>
 
-<li> Siwei Wang, <b>Xinwang Liu</b>, Chang Tang, Jiyuan Liu, En Zhu, Jianping Yin, Jiangtao Hu and Jingyuan Xia: *<u>Multi-view Clustering via Late Fusion Alignment Maximization</u>*. <font color="green">IJCAI 2019</font>. (CCF Rank A, Accepted May 2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0524.pdf) </li>
+<li> Siwei Wang, <b>Xinwang Liu</b>, Chang Tang, Jiyuan Liu, En Zhu, Jianping Yin, Jiangtao Hu and Jingyuan Xia: <i><u>Multi-view Clustering via Late Fusion Alignment Maximization</u></i>. <font color="green">IJCAI 2019</font>. (CCF Rank A, Accepted May 2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0524.pdf) </li>
 
-<li> Wenzhang Zhuge, Chenping Hou, <b>Xinwang Liu</b>, Hong Tao and Dongyun Yi: *<u>Simultaneous Representation Learning and Clustering for Incomplete Multi-view Data</u>*. <font color="green">IJCAI 2019</font>. (CCF Rank A, Accepted May 2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0623.pdf) </li>
+<li> Wenzhang Zhuge, Chenping Hou, <b>Xinwang Liu</b>, Hong Tao and Dongyun Yi: <i><u>Simultaneous Representation Learning and Clustering for Incomplete Multi-view Data</u></i>. <font color="green">IJCAI 2019</font>. (CCF Rank A, Accepted May 2019) [[PDF]](https://www.ijcai.org/proceedings/2019/0623.pdf) </li>
 
-<li> Xinzhong Zhu, <b>Xinwang Liu</b>, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: *<u>Localized Incomplete Multiple Kernel k-means</u>*. <font color="green">IJCAI 2018</font> 3271-3277. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2018/0454.pdf) </li>
+<li> Xinzhong Zhu, <b>Xinwang Liu</b>, Miaomiao Li, En Zhu, Li Liu, Zhiping Cai, Jianping Yin, Wen Gao: <i><u>Localized Incomplete Multiple Kernel k-means</u></i>. <font color="green">IJCAI 2018</font> 3271-3277. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2018/0454.pdf) </li>
 
-<li> Changqing Zhang, Yeqinq Liu, Yue Liu, Qinghua Hu, <b>Xinwang Liu</b>, Pengfei Zhu: *<u>FISH-MML: Fisher-HSIC Multi-View Metric Learning</u>*. <font color="green">IJCAI 2018</font>: 3054-3060. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2018/0424.pdf) </li>
+<li> Changqing Zhang, Yeqinq Liu, Yue Liu, Qinghua Hu, <b>Xinwang Liu</b>, Pengfei Zhu: <i><u>FISH-MML: Fisher-HSIC Multi-View Metric Learning</u></i>. <font color="green">IJCAI 2018</font>: 3054-3060. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2018/0424.pdf) </li>
 
-<li> Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and <b>Xinwang Liu</b>: *<u>Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition</u>*. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16106/16338) </li>
+<li> Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and <b>Xinwang Liu</b>: <i><u>Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition</u></i>. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16106/16338) </li>
 
-<li> Changqing Zhang, Ziwei Yu, Qinghua Hu, Pengfei Zhu, Xiaobo Wang, and <b>Xinwang Liu</b>: *<u>Latent Semantic Aware Multi-view Multi-label Classification</u>*. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16829/16752) </li>
+<li> Changqing Zhang, Ziwei Yu, Qinghua Hu, Pengfei Zhu, Xiaobo Wang, and <b>Xinwang Liu</b>: <i><u>Latent Semantic Aware Multi-view Multi-label Classification</u></i>. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16829/16752) </li>
 
-<li> Hong Tao, Chenping Hou, <b>Xinwang Liu</b>, Dongyun Yi and Jubo Zhu: *<u>Reliable Multi-View Clustering</u>*. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16245/16686) </li>
+<li> Hong Tao, Chenping Hou, <b>Xinwang Liu</b>, Dongyun Yi and Jubo Zhu: <i><u>Reliable Multi-View Clustering</u></i>. <font color="green">AAAI 2018</font>. (CCF Rank A) [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16245/16686) </li>
 
-<li> <b>Xinwang Liu</b>, Miaomiao Li, Lei Wang, Yong Dou, Jianping Yin and En Zhu: *<u>Multiple Kernel k-means with Incomplete Kernels</u>*. <font color="green">AAAI 2017</font>. (CCF Rank A) [[PDF]](https://pdfs.semanticscholar.org/8a43/479648816f7927487457c1d02f2bd6b4e383.pdf) </li>
+<li> <b>Xinwang Liu</b>, Miaomiao Li, Lei Wang, Yong Dou, Jianping Yin and En Zhu: <i><u>Multiple Kernel k-means with Incomplete Kernels</u></i>. <font color="green">AAAI 2017</font>. (CCF Rank A) [[PDF]](https://pdfs.semanticscholar.org/8a43/479648816f7927487457c1d02f2bd6b4e383.pdf) </li>
 
-<li> <b>Xinwang Liu</b>, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: *<u>Optimal Neighborhood Kernel Clustering with Multiple Kernels</u>*. <font color="green">AAAI 2017</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14761/14403) </li>
+<li> <b>Xinwang Liu</b>, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: <i><u>Optimal Neighborhood Kernel Clustering with Multiple Kernels</u></i>. <font color="green">AAAI 2017</font>. (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14761/14403) </li>
 
-<li> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: *<u>Multiple Kernel Clustering Framework with Improved Kernels</u>*. <font color="green">IJCAI 2017</font>. (CCF Rank A) [[PDF]](https://pdfs.semanticscholar.org/440c/02392977e3f849fe3375bc2ca2d24f347fa7.pdf) </li>
+<li> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: <i><u>Multiple Kernel Clustering Framework with Improved Kernels</u></i>. <font color="green">IJCAI 2017</font>. (CCF Rank A) [[PDF]](https://pdfs.semanticscholar.org/440c/02392977e3f849fe3375bc2ca2d24f347fa7.pdf) </li>
 
-<li> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: *<u>Approximate Large-scale Multiple Kernel k-means using Deep Neuron Network</u>*. <font color="green">IJCAI 2017</font>. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2017/0419.pdf) </li>
+<li> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: <i><u>Approximate Large-scale Multiple Kernel k-means using Deep Neuron Network</u></i>. <font color="green">IJCAI 2017</font>. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2017/0419.pdf) </li>
 
-<li> Xifeng Guo, Long Gao, <b>Xinwang Liu</b> and Jianping Yin: *<u>Improved Deep Embedded Clustering with Local Structure Preservation</u>*. <font color="green">IJCAI 2017</font>. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2017/0243.pdf) </li>
+<li> Xifeng Guo, Long Gao, <b>Xinwang Liu</b> and Jianping Yin: <i><u>Improved Deep Embedded Clustering with Local Structure Preservation</u></i>. <font color="green">IJCAI 2017</font>. (CCF Rank A) [[PDF]](https://www.ijcai.org/proceedings/2017/0243.pdf) </li>
 
-<li> Miaomiao Li, <b>Xinwang Liu</b>, Lei Wang, Yong Dou and Jianping Yin: *<u>Multi-view Clustering via Maximizing Local Kernel Alignment</u>*. <font color="green">IJCAI 2016</font>: (1704-1710), July 9-16, 2016, New York, USA (CCF Rank A) </li>
+<li> Miaomiao Li, <b>Xinwang Liu</b>, Lei Wang, Yong Dou and Jianping Yin: <i><u>Multi-view Clustering via Maximizing Local Kernel Alignment</u></i>. <font color="green">IJCAI 2016</font>: (1704-1710), July 9-16, 2016, New York, USA (CCF Rank A) </li>
 
-<li> <b>Xinwang Liu</b>, Yong Dou, Jianping Yin, Lei Wang, En Zhu: *<u>Multiple Kernel k-means Clustering with Matrix-induced Regularization</u>*. <font color="green">AAAI 2016</font>: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819) </li>
+<li> <b>Xinwang Liu</b>, Yong Dou, Jianping Yin, Lei Wang, En Zhu: <i><u>Multiple Kernel k-means Clustering with Matrix-induced Regularization</u></i>. <font color="green">AAAI 2016</font>: (1888-1894), February 12-17, 2016, Phoenix, Arizona, USA (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12115/11819) </li>
 
 <li> <b>Xinwang Liu</b>, Lei Wang, Jianping Yin, Yong Dou, Jian Zhang: <i><u>Absent Multiple Kernel Learning</u></i>. <font color="green">AAAI 2015</font>: (2807-2813), January 25-30, 2015, Austin, Texas, USA (CCF Rank A) [[PDF]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9298/9945) </li>
 

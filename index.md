@@ -67,7 +67,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <ol>
         
-<li> Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) [[PDF]](<a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf"></a>)</li>
+<li> Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) <a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf">[PDF]</a></li>
 
 <li> Sihang Zhou, <b>Xinwang Liu</b>, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: <i><u>Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) [[PDF]](<a href = "https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouS.4849.pdf"></a>)</li>
 

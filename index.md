@@ -3,7 +3,7 @@ layout: page
 <title>Xinwang Liu: Homepage</title>
 ---
 # News
-<ol>
+<ul>
         
 <li>
         [<font color="red">April 20, 2020</font>]  "**Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification**" has been accepted by <font color="green">IJCAI 2020</font>.
@@ -24,7 +24,8 @@ layout: page
 <li>
 [<font color="red">February 13, 2020</font>]  "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
 </li>
-</ol>
+
+</ul>
 
 # Brief Bio：
 

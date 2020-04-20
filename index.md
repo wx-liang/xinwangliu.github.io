@@ -3,16 +3,28 @@ layout: page
 <title>Xinwang Liu: Homepage</title>
 ---
 # News
+<ol>
+        
+<li>
+        [<font color="red">April 20, 2020</font>]  "**Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification**" has been accepted by <font color="green">IJCAI 2020</font>.
+</li>
 
-[<font color="red">April 20, 2020</font>]  "**Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification**" has been accepted by <font color="green">IJCAI 2020</font>.
-
+<li>
 [<font color="red">April 11, 2020</font>] Promoted to be "**IEEE Senior member**".
+</li>
 
+<li>
 [<font color="red">March 29, 2020</font>]  "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
+</li>
 
+<li>
 [<font color="red">March 17, 2020</font>]  "<b>B</b>*![](http://latex.codecogs.com/gif.latex?$R^2$)*<b>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.
+</li>
 
+<li>
 [<font color="red">February 13, 2020</font>]  "**Efficient and Effective Regularized Incomplete Multi-view Clustering**" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.
+</li>
+</ol>
 
 # Brief Bio：
 

@@ -4,7 +4,9 @@ layout: page
 ---
 # News
 
-[<font color="red">April 11, 2020</font>] Promoted to be "**IEEE Senior member**"
+[<font color="red">April 20, 2020</font>]  "**Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification**" has been accepted by <font color="green">IJCAI 2020</font>.
+
+[<font color="red">April 11, 2020</font>] Promoted to be "**IEEE Senior member**".
 
 [<font color="red">March 29, 2020</font>]  "**Self-paced Clustering Ensemble**" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.
 

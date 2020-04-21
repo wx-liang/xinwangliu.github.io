@@ -10,7 +10,7 @@ layout: page
 
 <li>[<font color="red">March 29, 2020</font>]  "<b>Self-paced Clustering Ensemble</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li>
 
-<li>[<font color="red">March 17, 2020</font>]  "<b>BR^2Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li>
+<li>[<font color="red">March 17, 2020</font>]  "<b>BR<sup>2</sup>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li>
 
 <li>[<font color="red">February 13, 2020</font>]  "<b>Efficient and Effective Regularized Incomplete Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li>
 </ul>

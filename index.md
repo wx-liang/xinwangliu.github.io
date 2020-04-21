@@ -28,7 +28,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <ol>
 
 <li> <b>Xinwang Liu</b>, Miaomiao Li, Chang Tang, Jingyuan Xia, Jian Xiong, Li Liu, Marius Kloft and En Zhu: "<i><u>Efficient and Effective Incomplete Multi-view Clustering</u></i>". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>IEEE TPAMI</b>)</font> <a href = "https://sci-hub.tw/https://ieeexplore.ieee.org/document/9001210/">[PDF]</a>(Accepted Feb 14th, 2020)</li>
-<br>
+<p style="margin-top: 30px;"> </p>
 <li> <b>Xinwang Liu</b>, Lei Wang, Xinzhong Zhu, Miaomiao Li, En Zhu, Tongliang Liu, Li Liu, Yong Dou, Jianping Yin: "<i><u>Absent Multiple Kernel Learning Algorithms</u></i>". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font>, 2019 <a href = "https://tongliang-liu.github.io/papers/TPAMIAbsentKernel.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/absentkernel">[Code]</a></li>
 <br>
 <li> <b>Xinwang Liu</b>, Xinzhong Zhu, Miaomiao Li, Lei Wang, En Zhu, Tongliang Liu, Marius Kloft, Dinggang Shen, Jianping Yin, Wen Gao: "<i><u>Multiple kernel k-means with incomplete kernels</u></i>". <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</font> 2019 <a href = "https://tongliang-liu.github.io/papers/TPAMIK-means.pdf">[PDF]</a></li>

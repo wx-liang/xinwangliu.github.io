@@ -68,7 +68,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <ol>
         
 <li> Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) <a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf">[PDF]</a></li>
-<br />
+<br>
 <li> Sihang Zhou, <b>Xinwang Liu</b>, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: <i><u>Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) <a href = "https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouS.4849.pdf">[PDF]</a></li>
 <br />
 <li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya: <i><u>MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) </li>
@@ -82,9 +82,9 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <li> <b>Xinwang Liu</b>, Xinzhong Zhu, Miaomiao Li, Chang Tang, En Zhu, Jianping Yin, Wen Gao: <i><u>Efficient and Effective Incomplete Multi-view Clustering</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) <a href = "https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4350/4228">[PDF]</a></li>
 <br />
 <li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, Lizhe Wang: <i><u>Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) <a href = "https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4443/4321">[PDF]</a></li>
-<br />
+<br>
 <li> Siqi Wang, En Zhu, Xiping Hu, <b>Xinwang Liu</b>, Qiang Liu, Jianping Yin, Fei Wang: <i><u>Robustness Can Be Cheap: A Highly Efficient Approach to Discover Outliers under High Outlier Ratios</u></i>. <font color="green">AAAI 2019</font>.(CCF Rank A) <a href = "https://wvvw.aaai.org/ojs/index.php/AAAI/article/download/4468/4346">[PDF]</a></li>
-<br />
+<br>
 <li> Chang Tang, Xinzhong Zhu, <b>Xinwang Liu</b>, Lizhe Wang, Albert Zomaya: <i><u>DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features</u></i>. <font color="green">CVPR 2019</font>. (CCF Rank A) <a href = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_DeFusionNET_Defocus_Blur_Detection_via_Recurrently_Fusing_and_Refining_Multi-Scale_CVPR_2019_paper.pdf">[PDF]</a></li>
 <br />
 <li> Xifeng Guo, <b>Xinwang Liu</b>, En Zhu and Jianping Yin: <i><u>Affine Equivariant Autoencoder</u></i>. <font color="green">IJCAI 2019</font>.(CCF Rank A, Accepted May 2019) <a href = "https://www.ijcai.org/proceedings/2019/0335.pdf">[PDF]</a></li>

@@ -72,8 +72,12 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Conference Papers:
 
 <ol>
+
+<p style="margin-top: 10px;"><li>Jinglin Xu, Xiangsen Zhang, Wenbin Li, <b>Xinwang Liu</b>, and Junwei Han: <i><u>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</u></i>. <font color="green">IJCAI 2020</font>. (CCF Rank A, Accepted April 20. 2020)<a href = "https://www.ijcai20.org/">[PDF]</a></li></p>      
         
-<li> Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) <a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf">[PDF]</a></li>
+<p style="margin-top: 10px;"><li>Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) <a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf">[PDF]</a></li></p>
+
+<p style="margin-top: 10px;"><li> Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) <a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 10px;"><li> Sihang Zhou, <b>Xinwang Liu</b>, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: <i><u>Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">AAAI 2020</font>. (CCF Rank A, Accepted Nov. 2019) <a href = "https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouS.4849.pdf">[PDF]</a></li></p>
 

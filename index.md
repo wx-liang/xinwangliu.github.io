@@ -9,7 +9,7 @@ layout: page
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 11, 2020</font>] Promoted to be "<b>IEEE Senior member</b>".</li></p>
 
-<p style="margin-top: 6px;"><li>[<font color="red">March 29, 2020</font>]  "<b><a href = "https://raw.githubusercontent.com/xinwangliu/xinwangliu.github.io/master/groupmember/09072360.pdf">Self-paced Clustering Ensemble</a></li></p></b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">March 29, 2020</font>]  "<b><a href = "https://raw.githubusercontent.com/xinwangliu/xinwangliu.github.io/master/groupmember/09072360.pdf">Self-paced Clustering Ensemble</a></b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">March 17, 2020</font>]  "<b>BR<sup>2</sup>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
 

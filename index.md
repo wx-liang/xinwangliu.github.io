@@ -9,7 +9,7 @@ layout: page
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 11, 2020</font>] Promoted to be "<b>IEEE Senior member</b>".</li></p>
 
-<p style="margin-top: 6px;"><li>[<font color="red">March 29, 2020</font>]  "<b>Self-paced Clustering Ensemble</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">March 29, 2020</font>]  "<b><a href = "https://raw.githubusercontent.com/xinwangliu/xinwangliu.github.io/master/groupmember/09072360.pdf">Self-paced Clustering Ensemble</a></li></p></b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">March 17, 2020</font>]  "<b>BR<sup>2</sup>Net: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
 
@@ -55,7 +55,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <p style="margin-top: 8px;"><li> Sihang Zhou, <b>Xinwang Liu</b>, Miaomiao Li, En Zhu, Li Liu, Changwang Zhang, and Jianping Yin: <i><u>Multiple Kernel Clustering with Neighbor-Kernel Subspace Segmentation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B, Accepted May 2019) <a href = "https://sz.btfs.mail.ftn.qq.com/ftn_handler/ce01fa6c08d89281abb917adb4860a0062535ccb043ad0e21424681e656867d000168ff1096f39ce34fc0660fc45ba8c2ebecdc30bad5af9f350a6b699058421?compressed=0&dtype=1&fname=Multiple%20Kernel%20Clustering%20with%20Neighbor-Kernel%20Subspace%20Segmentation.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li> Peng Zhou, Liang Du, <b>Xinwang Liu</b>, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: <i><u>Self-paced Clustering Ensemble</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B, Accepted March 29th, 2020)</li></p>
+<p style="margin-top: 8px;"><li> Peng Zhou, Liang Du, <b>Xinwang Liu</b>, Yi-Dong Shen, Mingyu Fan, and Xuejun Li: <i><u>Self-paced Clustering Ensemble</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (CCF Rank B, Accepted March 29th, 2020) <a href = "https://raw.githubusercontent.com/xinwangliu/xinwangliu.github.io/master/groupmember/09072360.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li> Chang Tang, <b>Xinwang Liu</b>, An Shan and Pichao Wang: <i><u>BNet: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B, Accepted March 16th, 2020)</li></p>
 

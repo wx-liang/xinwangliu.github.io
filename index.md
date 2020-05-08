@@ -59,6 +59,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <p style="margin-top: 8px;"><li> Chang Tang, <b>Xinwang Liu</b>, An Shan and Pichao Wang: <i><u>BNet: Defocus Blur Detection via Bi-directional Channel Attention Residual Refining Network</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B, Accepted March 16th, 2020)</li></p>
 
+<p style="margin-top: 8px;"><li> Jie Wu, Wenzhang Zhuge, <b>Xinwang Liu</b>, Li Liu and Chenping Hou: <i><u>Fragmentary Multi-Instance Classification</u></i>. <font color="green">IEEE Transactions on Cybernetics (<b>TCYB</b>)</font>. (CCF Rank B, Accepted Sep. 2019) <a href = "http://jultika.oulu.fi/files/nbnfi-fe2019121046462.pdf">[PDF]</a></li></p>
+
 <p style="margin-top: 8px;"><li> Chang Tang, <b>Xinwang Liu</b>, Xinzhong Zhu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang: <i><u>Learning Joint Affinity Graph for Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B, Accepted Nov. 2018) <a href = "https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8587193/">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li> Chang Tang, <b>Xinwang Liu</b>, Pichao Wang, Changqing Zhang, Miaomiao Li, and Lizhe Wang: <i><u>Adaptive Hypergraph Embedded Semi-supervised Multilabel Image Annotation</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (CCF Rank B, Accepted March 2019) <a href = "https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8684404/">[PDF]</a></li></p>

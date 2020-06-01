@@ -5,8 +5,7 @@ layout: page
 # News
 <ul>
 
-<li>[<font color="red">April 20, 2020</font>]  "<b>Nearly Optimal Risk Bounds for Kernel K-Means</b>" has been accepted by <font color="green">ICML 2020</font>.</li>
-
+<li>[<font color="red">June 01, 2020</font>]  "<b>Nearly Optimal Risk Bounds for Kernel K-Means</b>" has been accepted by <font color="green">ICML 2020</font>.</li>
 
 <li>[<font color="red">April 20, 2020</font>]  "<b>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</b>" has been accepted by <font color="green">IJCAI 2020</font>.</li>
 

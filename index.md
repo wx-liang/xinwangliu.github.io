@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
 
+<li>[<font color="red">April 20, 2020</font>]  "<b>Nearly Optimal Risk Bounds for Kernel K-Means</b>" has been accepted by <font color="green">ICML 2020</font>.</li>
+
 <li>[<font color="red">April 20, 2020</font>]  "<b>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</b>" has been accepted by <font color="green">IJCAI 2020</font>.</li>
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 11, 2020</font>] Promoted to be "<b>IEEE Senior member</b>".</li></p>
@@ -75,7 +77,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Conference Papers:
 
 <ol>
-
+<p style="margin-top: 8px;"><li>Yong Liu, Lizhong Ding, Hua Zhang, Wenqi Ren, Xiao Zhang, Shali Jiang, <b>Xinwang Liu</b>, and Weiping Wang: <i><u>Nearly Optimal Risk Bounds for Kernel K-Means</u></i>. <font color="green">ICML 2020</font>. (CCF Rank A, Accepted June 01. 2020)<a href = "https://icml.cc/Conferences/2020/">[PDF]</a></li></p> 
+ 
 <p style="margin-top: 8px;"><li>Jinglin Xu, Xiangsen Zhang, Wenbin Li, <b>Xinwang Liu</b>, and Junwei Han: <i><u>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</u></i>. <font color="green">IJCAI 2020</font>. (CCF Rank A, Accepted April 20. 2020)<a href = "https://www.ijcai20.org/">[PDF]</a></li></p>      
         
 <p style="margin-top: 8px;"><li>Siqi Wang, Yijie Zeng, <b>Xinwang Liu</b>, En Zhu, Jianping Yin, Chuanfu Xu, and Marius Kloft: <i><u>Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network</u></i>. <font color="green">NeurIPS 2019</font>: 5960-5973 (CCF Rank A) <a href = "http://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf">[PDF]</a></li></p>

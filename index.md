@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">July 9, 2020</font>] Served as a "<b>Editorial Board Member with Information Fusion</b>".</li></p>
+
 <li>[<font color="red">April 20, 2020</font>]  "<b>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</b>" has been accepted by <font color="green">IJCAI 2020</font>.</li>
 
 <p style="margin-top: 6px;"><li>[<font color="red">April 11, 2020</font>] Promoted to be "<b>IEEE Senior member</b>".</li></p>

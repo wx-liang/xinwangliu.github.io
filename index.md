@@ -5,7 +5,9 @@ layout: page
 # News
 <ul>
 
-<p style="margin-top: 6px;"><li>[<font color="red">July 26, 2020</font>]  "<b>Defusionnet: Defocus blur detection via recurrently fusing and refining multi-scale deep features</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>
+<p style="margin-top: 6px;"><li>[<font color="red">July 31, 2020</font>]  "<b>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+
+<p style="margin-top: 6px;"><li>[<font color="red">July 26, 2020</font>]  "<b>Defusionnet: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 9, 2020</font>] Served as an "<b>Editorial Board Member</b>" with <font color="green">Information Fusion</font>.</li></p>
 

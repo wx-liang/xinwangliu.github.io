@@ -82,6 +82,7 @@ Zomaya and Antonella Longo: <i><u>Defusionnet: Defocus Blur Detection via Recurr
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS' 1]</b></font> Jianfeng Lu, Yun Xin, Zhao Zhang, <b>Xinwang Liu</b>, and Kenli Li: <i><u>Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing</u></i>. <font color="green">IEEE Transactions Information Forensics and Security (<b>TIFS</b>)</font> 13(11): 2801-2815 (2018). (CCF Rank A) <a href = "https://arxiv.org/pdf/1712.09848.pdf">[PDF]</a></li></p>
 
+</ol>
 
 
 # Selected Conference Papers:
@@ -148,6 +149,7 @@ Zomaya and Antonella Longo: <i><u>Defusionnet: Defocus Blur Detection via Recurr
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ECCV' 1]</b></font> Melih Engin, Lei Wang, Luping Zhou, <b>Xinwang Liu</b>: <i><u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u></i>. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf">[PDF]</a></li></p>
 
+</ol>
 
 # Group Members:
 

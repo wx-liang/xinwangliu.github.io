@@ -146,7 +146,7 @@ Zomaya and Antonella Longo: <i><u>Defusionnet: Defocus Blur Detection via Recurr
 
 <p style="margin-top: 8px;"><li> <font color="blue"><b>[ICCV'1]</b></font> Lingqiao Liu, Lei Wang, <b>Xinwang Liu</b>: <i><u>In defense of soft-assignment coding</u></i>. <font color="green">ICCV 2011</font>: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li> <font face="Times" color="blue"><b>[ECCV'1]</b></font> Melih Engin, Lei Wang, Luping Zhou, <b>Xinwang Liu</b>: <i><u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u></i>. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li> <font face="verdana" color="blue"><b>[ECCV'1]</b></font> Melih Engin, Lei Wang, Luping Zhou, <b>Xinwang Liu</b>: <i><u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u></i>. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf">[PDF]</a></li></p>
 
 </ol> 
 

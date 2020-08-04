@@ -81,7 +81,7 @@ Zomaya and Antonella Longo: <i><u>Defusionnet: Defocus Blur Detection via Recurr
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIP' 1]</b></font> Lei Luo, Chunhua Shen, <b>Xinwang Liu</b>, and Chunyuan Zhang: <i><u>A Computational Model of the Short-Cut Rule for 2D Shape Decomposition</u></i>. <font color="green">IEEE Transactions on Image Processing (<b>TIP</b>)</font> 24(1): 273-283 (2015) (CCF Rank A) <a href = "https://arxiv.org/pdf/1409.2104.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS' 1]</b></font> Jianfeng Lu, Yun Xin, Zhao Zhang, <b>Xinwang Liu</b>, and Kenli Li: <i><u>Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing</u></i>. <font color="green">IEEE Transactions Information Forensics and Security (<b>TIFS</b>)</font> 13(11): 2801-2815 (2018). (CCF Rank A) <a href = "https://arxiv.org/pdf/1712.09848.pdf">[PDF]</a></li></p>
-</ol>
+
 
 
 # Selected Conference Papers:
@@ -144,11 +144,10 @@ Zomaya and Antonella Longo: <i><u>Defusionnet: Defocus Blur Detection via Recurr
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 1]</b></font> <b>Xinwang Liu</b>, Lei Wang, Jian Zhang, Jianping Yin: <i><u>Sample-Adaptive Multiple Kernel Learning</u></i>. <font color="green">AAAI 2014</font>: (1975-1981), July 27-31, 2014, Qu´ebec City, Qu´ebec, Canada (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8332/8839">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li> <font face="verdana" color="blue"><b>[ICCV' 1]</b></font> Lingqiao Liu, Lei Wang, <b>Xinwang Liu</b>: <i><u>In defense of soft-assignment coding</u></i>. <font color="green">ICCV 2011</font>: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICCV' 1]</b></font> Lingqiao Liu, Lei Wang, <b>Xinwang Liu</b>: <i><u>In defense of soft-assignment coding</u></i>. <font color="green">ICCV 2011</font>: (2486-2493), November 6-13, 2011, Barcelona, Spain. (CCF Rank A) <a href = "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.7010&rep=rep1&type=pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li> <font face="verdana" color="blue"><b>[ECCV' 1]</b></font> Melih Engin, Lei Wang, Luping Zhou, <b>Xinwang Liu</b>: <i><u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u></i>. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ECCV' 1]</b></font> Melih Engin, Lei Wang, Luping Zhou, <b>Xinwang Liu</b>: <i><u>DeepKSPD: Learning Kernel-Matrix-Based SPD Representation For Fine-Grained Image Recognition</u></i>. <font color="green">ECCV 2018</font>: 629645. (CCF Rank B) <a href = "http://openaccess.thecvf.com/content_ECCV_2018/papers/Melih_Engin_DeepKSPD_Learning_Kernel-matrix-based_ECCV_2018_paper.pdf">[PDF]</a></li></p>
 
-</ol> 
 
 # Group Members:
 

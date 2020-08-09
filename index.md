@@ -125,7 +125,9 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 5]</b></font> <b>Xinwang Liu</b>, Miaomiao Li, Lei Wang, Yong Dou, Jianping Yin and En Zhu: <i><u>Multiple Kernel k-means with Incomplete Kernels</u></i>. <font color="green">AAAI 2017</font>. (CCF Rank A) <a href = "https://pdfs.semanticscholar.org/8a43/479648816f7927487457c1d02f2bd6b4e383.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 4]</b></font> <b>Xinwang Liu</b>, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: <i><u>Optimal Neighborhood Kernel Clustering with Multiple Kernels</u></i>. <font color="green">AAAI 2017</font>. (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14761/14403">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 4]</b></font> <b>Xinwang Liu</b>, Sihang Zhou, Yueqing Wang, Yong Dou, Jianping Yin and En Zhu: <i><u>Optimal Neighborhood Kernel Clustering with Multiple Kernels</u></i>. <font color="green">AAAI 2017</font>. (CCF Rank A) <a href = "https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14761/14403">[PDF]</a> <a href = "https://github.com/xinwangliu/ONKC">[CODE]</a></li></p>
+
+
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 4]</b></font> Yueqing Wang, <b>Xinwang Liu</b>, Yong Dou: <i><u>Multiple Kernel Clustering Framework with Improved Kernels</u></i>. <font color="green">IJCAI 2017</font>. (CCF Rank A) <a href = "https://pdfs.semanticscholar.org/440c/02392977e3f849fe3375bc2ca2d24f347fa7.pdf">[PDF]</a></li></p>
 

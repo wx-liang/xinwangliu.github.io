@@ -32,7 +32,7 @@ My research interests include kernel learning, multi-view learning, unsupervised
 Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=A56vWC4AAAAJ&view_op=list_works&sortby=pubdate)
 
 
-# Pre-Print
+# Under Review
 <ol>
 <p style="margin-top: 8px;"><li><b>Xinwang Liu</b>, <i><u>SimpleMKKM: Simple Multiple Kernel K-means</u></i><a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI_SimpleMKKM.pdf">[PDF]</a></li></p>
 </ol>

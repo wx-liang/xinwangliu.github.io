@@ -37,6 +37,10 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI_SimpleMKKM.pdf">[PDF]</a></li></p>
 </ol>
 
+<ol>
+<p style="margin-top: 8px;"><li>Weixuan Liang, Sihang Zhou, Jian Xiong, <b>Xinwang Liu</b>, Siwei Wang, En Zhu, Zhiping Cai, and Xin Xu: <i><u>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix.</u></i> <a href = "https://arxiv.org/pdf/2008.13539.pdf">[PDF]</a></li></p>
+</ol>
+
 # Selected Journal Papers:
 
 <ol>

@@ -63,8 +63,6 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 4]</b></font> Xifeng Guo, <b>Xinwang Liu</b>, En Zhu, Xinzhong Zhu, Miaomiao Li, Xin Xu, and Jianping Yin: <i><u>Adaptive Self-paced Deep Clustering with Data Augmentation</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. 32(9):1680-1693 (2020) (CCF Rank A) <a href = "https://www.researchgate.net/profile/Xifeng_Guo/publication/332490862_Adaptive_Self-paced_Deep_Clustering_with_Data_Augmentation/links/5cbc1d3c4585156cd7a724fa/Adaptive-Self-paced-Deep-Clustering-with-Data-Augmentation.pdf?origin=publication_detail">[PDF] <a href = "https://github.com/XifengGuo/ASPC-DA">[Code]</a></li></p>
 
-
-
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 3]</b></font> Chang Tang, <b>Xinwang Liu</b>, Miaomiao Li, Pichao Wang, and Lizhe Wang: <i><u>Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. 32(9):1747-1760 (2020) (CCF Rank A) <a href = "https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8693535/">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 2]</b></font> Yawei Zhao, En Zhu, <b>Xinwang Liu</b>, Deke Guo, Xinzhong Zhu, and Jianping Yin: <i><u>Simultaneous Clustering and Optimization for Evolving Datasets</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted June 2019) <a href = "https://arxiv.org/pdf/1908.01384.pdf">[PDF]</a></li></p>

@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">Sep 13, 2020</font>]  "<b>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">July 31, 2020</font>]  "<b>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 26, 2020</font>]  "<b>Defusionnet: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features</b>" has been accepted by <font color="green">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>.</li></p>
@@ -36,12 +38,14 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <ol>
 <p style="margin-top: 8px;"><li><b>Xinwang Liu</b>: <i><u>SimpleMKKM: Simple Multiple Kernel K-means.</u></i> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/TPAMI_SimpleMKKM.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li>Weixuan Liang, Sihang Zhou, Jian Xiong, <b>Xinwang Liu</b>, Siwei Wang, En Zhu, Zhiping Cai, and Xin Xu: <i><u>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix.</u></i> <a href = "https://arxiv.org/pdf/2008.13539.pdf">[PDF]</a></li></p>
 </ol>
 
 # Selected Journal Papers:
 
 <ol>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 6]</b></font> Weixuan Liang, Sihang Zhou, Jian Xiong, <b>Xinwang Liu</b>, Siwei Wang, En Zhu, Zhiping Cai, and Xin Xu: <i><u>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Sep 2020) <a href = "https://arxiv.org/pdf/2008.13539.pdf">[PDF]</a></li></p>
+ 
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 5]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Jian Xiong, Qing Liao, Sihang Zhou, Siwei Wang and Yuexiang Yang: <i><u>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted July 2020) <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/ON-ALKA.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/ON-ALK_release_code">[Code]</a></li></p>
 

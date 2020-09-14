@@ -194,7 +194,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
             <div> PhD </div>
           </td>
           <td width="20%" style="padding-right:30px">
-            <div> <img width="130" src="./groupmember/siwei.PNG"></div>
+            <div> <img width="130" src="./groupmember/王思为.jpg"></div>
             <div> <a href="http://github.com/wangsiwei2010">Siwei Wang</a> </div>
             <div> PhD student </div>
           </td>

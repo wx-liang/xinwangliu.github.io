@@ -91,7 +91,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS' 1]</b></font> Jianfeng Lu, Yun Xin, Zhao Zhang, <b>Xinwang Liu</b>, and Kenli Li: <i><u>Game-Theoretic Design of Optimal Two-Sided Rating Protocols for Service Exchange Dilemma in Crowdsourcing</u></i>. <font color="green">IEEE Transactions Information Forensics and Security (<b>TIFS</b>)</font> 13(11): 2801-2815 (2018). (CCF Rank A) <a href = "https://arxiv.org/pdf/1712.09848.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TIFS' 1]</b></font> <b>Xinwang Liu</b>,  Luping Zhou, Lei Wang, Jian Zhang, Jianping Yin and Dinggang Shen: <i><u>An efficient radius-incorporated MKL algorithm for Alzheimer's disease prediction</u></i>. <font color="green">Pattern Recognition
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[PR' 1]</b></font> <b>Xinwang Liu</b>,  Luping Zhou, Lei Wang, Jian Zhang, Jianping Yin and Dinggang Shen: <i><u>An efficient radius-incorporated MKL algorithm for Alzheimer's disease prediction</u></i>. <font color="green">Pattern Recognition
 </font> 48(7): 2141 - 2150 (2015). (CCF Rank B) <a href = "https://github.com/xinwangliu/Radius-incorporated-MKL-algorithm">[Code]</a></li></p>
 
 </ol>

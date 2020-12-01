@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 1, 2020</font>]  "<b>A Variable-Parameter Noise-Tolerant Zeroing Neural Network for Time-Variant Matrix Inversion with Guaranteed Robustness</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">Sep 14, 2020</font>]  "<b>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">July 31, 2020</font>]  "<b>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>

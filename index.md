@@ -232,7 +232,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
             <div> PhD student </div>
           </td>
  		  <td width="20%" style="padding-right:30px">
-            <div> <img width="145" src="./groupmember/wenxuan.jpg"></div>
+            <div> <img width="147" src="./groupmember/wenxuan.jpg"></div>
             <div> <a href="https://github.com/WxTu">Wenxuan Tu</a></div>
             <div> PhD student </div>
           </td>

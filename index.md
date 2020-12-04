@@ -109,7 +109,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <ol>
  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 17]</b></font> Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, and Jieren Cheng: <i><u>Deep Fusion Clustering Network</u></i>. <font color="green">AAAI 2021</font>. (CCF Rank A, Accepted in Dec. 2. 2020)<a href ="https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Deep%20Fusion%20Clustering%20Network.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 17]</b></font> Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, and Jieren Cheng: <i><u>Deep Fusion Clustering Network</u></i>. <font color="green">AAAI 2021</font>. (CCF Rank A, Accepted in Dec. 2. 2020)[PDF]</li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 10]</b></font> Jinglin Xu, Xiangsen Zhang, Wenbin Li, <b>Xinwang Liu</b>, and Junwei Han: <i><u>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</u></i>. <font color="green">IJCAI 2020</font>. (CCF Rank A)<a href = "https://www.ijcai20.org/">[PDF]</a></li></p>
         

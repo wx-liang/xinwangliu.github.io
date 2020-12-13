@@ -111,7 +111,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 18]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Siwei Wang,  Sihang Zhou: <i><u>Hierarchical Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2021</font>. (CCF Rank A, Accepted in Dec. 2. 2020)<a href = "https://liujiyuan13.github.io/pubs/HMKC.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/HMKC-code_release">[Code]</a></li></p>
  
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 17]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Xifeng Guo, Zhiping Cai, En Zhu, and Jieren Cheng: <i><u>Deep Fusion Clustering Network</u></i>. <font color="green">AAAI 2021</font>. (CCF Rank A, Accepted in Dec. 2. 2020)<a href = "https://liujiyuan13.github.io/pubs/HMKC.pdf">[PDF]</a> </li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 17]</b></font> Wenxuan Tu, Sihang Zhou, <b>Xinwang Liu</b>, Xifeng Guo, Zhiping Cai, En Zhu, and Jieren Cheng: <i><u>Deep Fusion Clustering Network</u></i>. <font color="green">AAAI 2021</font>. (CCF Rank A, Accepted in Dec. 2. 2020)<a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Deep%20Fusion%20Clustering%20Network.pdf">[PDF]</a> </li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 10]</b></font> Jinglin Xu, Xiangsen Zhang, Wenbin Li, <b>Xinwang Liu</b>, and Junwei Han: <i><u>Joint Multi-view 2D Convolutional Neural Networks for 3D Object Classification</u></i>. <font color="green">IJCAI 2020</font>. (CCF Rank A)<a href = "https://www.ijcai20.org/">[PDF]</a></li></p>
         
@@ -216,7 +216,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
           </td>
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/jiyuan.PNG"></div>
-            <div> <a href="http://github.com/liujiyuan13">Jiyuan Liu</a> </div>
+            <div> <a href="https://liujiyuan13.github.io/">Jiyuan Liu</a> </div>
             <div> PhD student </div>
           </td>
     

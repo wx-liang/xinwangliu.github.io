@@ -54,8 +54,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Journal Papers:
 
 <ol>
- 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 7]</b></font> Pei Zhang, <b>Xinwang Liu</b>, Sihang Zhou, Wentao Zhao, En Zhu and Zhiping Cai: <i><u>Consensus One-step Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Dec 2020) </li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 7]</b></font> Pei Zhang, <b>Xinwang Liu</b>, Sihang Zhou, Wentao Zhao, En Zhu and Zhiping Cai: <i><u>Consensus One-step Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Dec 2020)  <a href = "https://github.com/Jeaninezpp/COMVSC/blob/main/Consensus%20One-step%20Multi-view%20Subspace%20Clustering.pdf">[PDF]</a></li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 6]</b></font> Weixuan Liang, Sihang Zhou, Jian Xiong, <b>Xinwang Liu</b>, Siwei Wang, En Zhu, Zhiping Cai, and Xin Xu: <i><u>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Sep 2020) <a href = "https://arxiv.org/pdf/2008.13539.pdf">[PDF]</a></li></p>
  

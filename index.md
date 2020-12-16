@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 16, 2020</font>]  "<b>Consensus One-step Multi-view Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 2, 2020</font>]  "<b>Hierarchical Multiple Kernel Clustering</b>" has been accepted by <font color="green">AAAI2021</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 2, 2020</font>]  "<b>Deep Fusion Clustering Network</b>" has been accepted by <font color="green">AAAI2021</font>.</li></p>
@@ -52,6 +54,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Journal Papers:
 
 <ol>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 7]</b></font> Pei Zhang, <b>Xinwang Liu</b>, Sihang Zhou, Wentao Zhao, En Zhu and Zhiping Cai: <i><u>Consensus One-step Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Dec 2020) </li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 6]</b></font> Weixuan Liang, Sihang Zhou, Jian Xiong, <b>Xinwang Liu</b>, Siwei Wang, En Zhu, Zhiping Cai, and Xin Xu: <i><u>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Sep 2020) <a href = "https://arxiv.org/pdf/2008.13539.pdf">[PDF]</a></li></p>
  

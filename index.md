@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">Dec 16, 2020</font>]  "<b>Cross-view Locality Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 16, 2020</font>]  "<b>Consensus One-step Multi-view Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 2, 2020</font>]  "<b>Hierarchical Multiple Kernel Clustering</b>" has been accepted by <font color="green">AAAI2021</font>.</li></p>

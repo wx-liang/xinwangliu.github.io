@@ -192,7 +192,6 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
             <div> <a href="http://xinzhongzhu.github.io/">Xinzhong Zhu</a> </div>
             <div> Professor </div>
           </td>
-        <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/tangchang.png"></div>
             <div> <a href="http://tangchang.net/">Chang Tang</a> </div>

@@ -188,7 +188,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 <table width="90%" border="0" align="center" cellspacing="30">
         <tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
-            <div> <img width="130" src="./groupmember/xinzhongzhu.jpg"></div>
+            <div> <img width="140" src="./groupmember/xinzhongzhu.jpg"></div>
             <div> <a href="http://xinzhongzhu.github.io/">Xinzhong Zhu</a> </div>
             <div> Professor </div>
           </td>

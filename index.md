@@ -56,6 +56,10 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Journal Papers:
 
 <ol>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 8]</b></font> Chang Tang, Xiao Zheng, <b>Xinwang Liu</b>, Jing Zhang, Jian Xiong, and Lizhe Wang:
+<i><u> Cross-view Locality Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Dec 2020)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/09312467.pdf">[PDF]</a></li></p>
+ 
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 7]</b></font> Pei Zhang, <b>Xinwang Liu</b>, Sihang Zhou, Wentao Zhao, En Zhu and Zhiping Cai: <i><u>Consensus One-step Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Dec 2020)  <a href = "https://github.com/Jeaninezpp/COMVSC/blob/main/Consensus%20One-step%20Multi-view%20Subspace%20Clustering.pdf">[PDF]</a></li></p>
  

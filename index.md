@@ -220,7 +220,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
             <div> Postdoctoral </div>
           </td>
           <td width="20%" style="padding-right:30px">
-            <div> <img width="130" src="./groupmember/tuanfei.jpg"></div>
+            <div> <img width="135" src="./groupmember/tuanfei.jpg"></div>
             <div> <a href="https://github.com/zhutuanfei"> Tuanfei Zhu </a> </div>
             <div> Postdoctoral </div>
           </td>

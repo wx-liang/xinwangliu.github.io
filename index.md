@@ -215,7 +215,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
  <table width="90%" border="0" align="center" cellspacing="30">
  		<tbody><tr valign="top" align="center">
           <td width="20%" style="padding-right:30px">
-            <div> <img width="155" src="./groupmember/xingchen.jpg"></div>
+            <div> <img width="152" src="./groupmember/xingchen.jpg"></div>
             <div> Xingchen Hu </div>
             <div> Postdoctoral </div>
           </td>

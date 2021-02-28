@@ -90,7 +90,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 2]</b></font> Yawei Zhao, En Zhu, <b>Xinwang Liu</b>, Deke Guo, Xinzhong Zhu, and Jianping Yin: <i><u>Simultaneous Clustering and Optimization for Evolving Datasets</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted June 2019) <a href = "https://arxiv.org/pdf/1908.01384.pdf">[PDF]</a></li></p>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 1]</b></font> Yawei Zhao, Kai Xu, <b>Xinwang Liu</b>, En Zhu, Xinzhong Zhu, and Jianping Yin: <i><u>Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font> 31(8): 1610-1623 (2019)  <a href = "https://arxiv.org/pdf/1808.06556.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 1]</b></font> Yawei Zhao, Kai Xu, <b>Xinwang Liu</b>, En Zhu, Xinzhong Zhu, and Jianping Yin: <i><u>Triangle Lasso for Simultaneous Clustering and Optimization in Graph Datasets</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font> 31(8): 1610-1623 (2019)  <a href = "https://arxiv.org/pdf/1808.06556.pdf">[PDF]</a> <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/document/YaweiTKDE2.tex">[Bibtex]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCV' 1]</b></font> Li Liu, Wanli Ouyang, Xiaogang Wang, Paul W. Fieguth, Jie Chen, <b>Xinwang Liu</b>, and Matti Pietikäinen: <i><u>Deep Learning for Generic Object Detection: A Survey</u></i>. <font color="green">International Journal of Computer Vision (<b>IJCV</b>)</font> 128(2): 261-318 (2020) (CCF Rank A) <a href = "https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf">[PDF]</a></li></p>
 
@@ -220,7 +220,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
             <div> Postdoctoral </div>
           </td>
           <td width="20%" style="padding-right:30px">
-            <div> <img width="135" src="./groupmember/tuanfei.jpg"></div>
+            <div> <img width="132" src="./groupmember/tuanfei.jpg"></div>
             <div> <a href="https://github.com/zhutuanfei"> Tuanfei Zhu </a> </div>
             <div> Postdoctoral </div>
           </td>

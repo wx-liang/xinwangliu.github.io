@@ -217,12 +217,12 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/xingchen.jpg"></div>
             <div> Xingchen Hu </div>
-            <div> PhD </div>
+            <div> Postdoctoral </div>
           </td>
           <td width="20%" style="padding-right:30px">
             <div> <img width="130" src="./groupmember/tuanfei.jpg"></div>
             <div> <a href="https://github.com/zhutuanfei">Tuanfei Zhu</a> </div>
-            <div> PhD </div>
+            <div> Postdoctoral </div>
           </td>
             <div> <img width="130" src="./groupmember/yawei.PNG"></div>
             <div> <a href="https://yaweizhao.github.io">Yawei Zhao</a></div>

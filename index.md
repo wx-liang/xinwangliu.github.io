@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
 
+<p style="margin-top: 6px;"><li>[<font color="red">Mar 23, 2021</font>]  "<b>Consensus Graph Learning for Multi-view Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
+
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 16, 2020</font>]  "<b>Cross-view Locality Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>
 
 <p style="margin-top: 6px;"><li>[<font color="red">Dec 16, 2020</font>]  "<b>Consensus One-step Multi-view Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Knowledge and Data Engineering (TKDE)</font>.</li></p>

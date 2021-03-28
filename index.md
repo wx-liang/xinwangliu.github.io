@@ -61,7 +61,7 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 
 <ol>
  
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS' 4]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang,  Xifeng Guo, Marius Kloft, and Liangzhong He: <i><u> Multi-view Subspace Clustering via Co-training Robust Data Representation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted Mar 2021)  <a href = "https://liujiyuan13.github.io/pubs/CoMSC_TNNLS.pdf">[PDF]</a></li></p> 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS' 4]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang,  Xifeng Guo, Marius Kloft, and Liangzhong He: <i><u> Multi-view Subspace Clustering via Co-training Robust Data Representation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted Mar 2021)  <a href = "https://liujiyuan13.github.io/pubs/CoMSC_TNNLS.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/CoMSC-code_release">[Code]</a></li></p> 
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 4]</b></font> Zhenglai Li, Chang Tang, <b>Xinwang Liu</b>, Xiao Zheng, Wei Zhang, and En Zhu: <i><u> Consensus Graph Learning for Multi-view Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted Mar 2021)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/document/Consensus%20Graph%20Learning%20for%20Multi-view%20Clustering.pdf">[PDF]</a></li></p>
  

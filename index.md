@@ -5,7 +5,7 @@ layout: page
 # News
 <ul>
  
- <p style="margin-top: 6px;"><li>[<font color="red">29 April, 2021</font>]  "<b>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</b>" has been accepted by <font color="green">IJCAI-21 (the 30th International Joint Conference on Artificial Intelligence)</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">April 29, 2021</font>]  "<b>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</b>" has been accepted by <font color="green">IJCAI-21 (the 30th International Joint Conference on Artificial Intelligence)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">Mar 25, 2021</font>]  "<b>Multi-view Subspace Clustering via Co-training Robust Data Representation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
 

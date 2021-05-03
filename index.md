@@ -5,7 +5,7 @@ layout: page
 # News
 <ul>
  
- <p style="margin-top: 6px;"><li>[<font color="red">30 April, 2021</font>]  "<b>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</b>" has been accepted by <font color="green">IJCAI-21 (the 30th International Joint Conference on Artificial Intelligence)</font>.</li></p>
+ <p style="margin-top: 6px;"><li>[<font color="red">29 April, 2021</font>]  "<b>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</b>" has been accepted by <font color="green">IJCAI-21 (the 30th International Joint Conference on Artificial Intelligence)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">Mar 25, 2021</font>]  "<b>Multi-view Subspace Clustering via Co-training Robust Data Representation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
 
@@ -128,6 +128,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Conference Papers:
 
 <ol>
+ 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 11]</b></font> Chang Tang, <b>Xinwang Liu</b>, En Zhu, Lizhe Wang and Albert Zomaya: <i><u>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</u></i>. <font color="green">IJCAI 2021</font>. (CCF Rank A)<a href = "https://www.ijcai21.org/">[PDF]</a></li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 18]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang, Siwei Wang,  Sihang Zhou: <i><u>Hierarchical Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2021</font>. (CCF Rank A, Accepted in Dec. 2. 2020)<a href = "https://liujiyuan13.github.io/pubs/HMKC.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/HMKC-code_release">[Code]</a></li></p>
  

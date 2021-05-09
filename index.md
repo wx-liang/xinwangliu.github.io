@@ -5,6 +5,8 @@ layout: page
 # News
 <ul>
  
+<p style="margin-top: 6px;"><li>[<font color="red">May 08, 2021</font>]  "<b>One Pass Late Fusion Multi-view Clustering</b>" has been accepted by <font color="green">ICML-2021 (International Conference on Machine Learning)</font>.</li></p>
+ 
  <p style="margin-top: 6px;"><li>[<font color="red">April 29, 2021</font>]  "<b>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</b>" has been accepted by <font color="green">IJCAI-21 (the 30th International Joint Conference on Artificial Intelligence)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">Mar 25, 2021</font>]  "<b>Multi-view Subspace Clustering via Co-training Robust Data Representation</b>" has been accepted by <font color="green">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</font>.</li></p>
@@ -128,6 +130,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Conference Papers:
 
 <ol>
+ 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 1]</b></font> <b>Xinwang Liu</b>, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, Jiyuan Liu, Yi Zhang and En Zhu: <i><u>One Pass Late Fusion Multi-view Clustering</u></i>. <font color="green">ICML 2021</font>. (CCF Rank A)<a href = "	https://icml.cc/Conferences/2021/">[PDF]</a></li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJCAI' 11]</b></font> Chang Tang, <b>Xinwang Liu</b>, En Zhu, Lizhe Wang and Albert Zomaya: <i><u>Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering</u></i>. <font color="green">IJCAI 2021</font>. (CCF Rank A)<a href = "https://www.ijcai21.org/">[PDF]</a></li></p>
  

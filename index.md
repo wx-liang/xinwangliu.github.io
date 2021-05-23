@@ -4,6 +4,7 @@ layout: page
 ---
 # News
 <ul>
+<p style="margin-top: 6px;"><li>[<font color="red">May 22, 2021</font>]  "<b>Projective Multiple Kernel Subspace Clustering</b>" has been accepted by <font color="green">IEEE Transactions on Multimedia (TMM)</font>.</li></p>
  
 <p style="margin-top: 6px;"><li>[<font color="red">May 08, 2021</font>]  "<b>One Pass Late Fusion Multi-view Clustering</b>" has been accepted by <font color="green">ICML-2021 (International Conference on Machine Learning)</font>.</li></p>
  
@@ -64,6 +65,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Journal Papers:
 
 <ol>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 4]</b></font> 
+  Mengjing Sun, Siwei Wang, Pei Zhang, <b>Xinwang Liu</b>, Xifeng Guo, Sihang Zhou and En Zhu: <i><u> Projective Multiple Kernel Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted May 2021) [PDF]</a></li></p>
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS' 4]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang,  Xifeng Guo, Marius Kloft, and Liangzhong He: <i><u> Multi-view Subspace Clustering via Co-training Robust Data Representation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted Mar 2021)  <a href = "https://liujiyuan13.github.io/pubs/CoMSC_TNNLS.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/CoMSC-code_release">[Code]</a></li></p> 
 
@@ -72,7 +75,6 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 8]</b></font> Chang Tang, Xiao Zheng, <b>Xinwang Liu</b>, Jing Zhang, Jian Xiong, and Lizhe Wang:
 <i><u> Cross-view Locality Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Dec 2020)  <a href = "https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/09312467.pdf">[PDF]</a></li></p>
  
-
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 7]</b></font> Pei Zhang, <b>Xinwang Liu</b>, Sihang Zhou, Wentao Zhao, En Zhu and Zhiping Cai: <i><u>Consensus One-step Multi-view Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Dec 2020)  <a href = "https://github.com/Jeaninezpp/COMVSC/blob/main/Consensus%20One-step%20Multi-view%20Subspace%20Clustering.pdf">[PDF]</a> <a href = "https://github.com/Jeaninezpp/COMVSC">[Code]</a></li></p>
  
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TKDE' 6]</b></font> Weixuan Liang, Sihang Zhou, Jian Xiong, <b>Xinwang Liu</b>, Siwei Wang, En Zhu, Zhiping Cai, and Xin Xu: <i><u>Multi-View Spectral Clustering with High-Order Optimal Neighborhood Laplacian Matrix</u></i>. <font color="green">IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)</font>. (Accepted Sep 2020) <a href = "https://arxiv.org/pdf/2008.13539.pdf">[PDF]</a> <a href = "https://github.com/weixuanliang1214/ONMSC-LF">[Code]</a></li></p>

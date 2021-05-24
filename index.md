@@ -65,8 +65,8 @@ Google Scholar: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN
 # Selected Journal Papers:
 
 <ol>
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 4]</b></font> 
-  Mengjing Sun, Siwei Wang, Pei Zhang, <b>Xinwang Liu</b>, Xifeng Guo, Sihang Zhou and En Zhu: <i><u> Projective Multiple Kernel Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted May 2021) [PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 5]</b></font> 
+  Mengjing Sun, Siwei Wang, Pei Zhang, <b>Xinwang Liu</b>, Xifeng Guo, Sihang Zhou and En Zhu: <i><u> Projective Multiple Kernel Subspace Clustering</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font>. (Accepted May 2021) [PDF]
  
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TNNLS' 4]</b></font> Jiyuan Liu, <b>Xinwang Liu</b>, Yuexiang Yang,  Xifeng Guo, Marius Kloft, and Liangzhong He: <i><u> Multi-view Subspace Clustering via Co-training Robust Data Representation</u></i>. <font color="green">IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</font>. (Accepted Mar 2021)  <a href = "https://liujiyuan13.github.io/pubs/CoMSC_TNNLS.pdf">[PDF]</a> <a href = "https://github.com/liujiyuan13/CoMSC-code_release">[Code]</a></li></p> 
 
